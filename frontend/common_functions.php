@@ -12,7 +12,7 @@ function prepare_template_values(&$cache_params_array,$template_id)
 		while ($myrow = mysql_fetch_array($qr_res))
 		{
 			$data_array[] = $myrow["template_vid"];
-		}
+		}		
 	}
 	
 	foreach ($templates_var_list as $k=>$v)
@@ -22,46 +22,122 @@ function prepare_template_values(&$cache_params_array,$template_id)
 			case '$AllowWithinSearch': $smarty->assign("AllowWithinSearch",get_allow_within_search()); break;
 		}
 		//Common
-		if (!in_array($k, $data_array)) continue;
+// 		if (!in_array($k, $data_array)) continue;
 		switch ($v["name"]) {
-			case '$JobCategories': $smarty->assign("JobCategories",get_jobcategories_selectbox()); break;
-			case '$JobCategoriesList': $smarty->assign("JobCategoriesList",get_jobcategories_list()); break;
-			case '$JobCategoriesArrayList': $smarty->assign("JobCategoriesArrayList",get_jobcategories_list_array()); break;
-			case '$SiteTitle': $smarty->assign("SiteTitle",get_sitetitle()); break;
-			case '$SiteDescription': $smarty->assign("SiteDescription",get_sitedescription()); break;
-			case '$SiteKeywords': $smarty->assign("SiteKeywords",get_sitekeywords()); break;
-			case '$SearchRadiusList': $smarty->assign_by_ref("SearchRadiusList",$radius_array); break;
-			case '$SearchJobTypesList': $smarty->assign_by_ref("SearchJobTypesList",$jobs_type_array); break;
-			case '$SearchJobFromList': $smarty->assign_by_ref("SearchJobFromList",$jobs_from_array); break;
-			case '$SearchJobPublishedList': $smarty->assign_by_ref("SearchJobPublishedList",$jobs_published_array); break;
-			case '$SearchNumberResults': $smarty->assign_by_ref("SearchNumberResults",$number_results_array); break;
-			case '$ErrorMessage': $smarty->assign_by_ref("ErrorMessage",$my_error); break;
-			case '$SearchJobsList': $smarty->assign_by_ref("SearchJobsList",$job_list); break;
-			case '$PagesList': $smarty->assign_by_ref("PagesList",$pages_list); break;
-			case '$ShowSearchType': $smarty->assign("ShowSearchType",get_search_type_selection()); break;
-			case '$ShowSearchOrder': $smarty->assign("ShowSearchOrder",get_search_order_selection()); break;
-			case '$ShowSearchResultStats': $smarty->assign("ShowSearchResultStats",get_search_results_stats()); break;
-			case '$ShowCategoriesLinks': $smarty->assign("ShowCategoriesLinks",get_categories_links_on_search_page()); break;
-			case '$ShowJobsPerPage': $smarty->assign("ShowJobsPerPage",get_jobs_per_page_buttons()); break;
-			case '$JobFilterParams': $smarty->assign("JobFilterParams",get_jobs_filter_params()); break;
-			case '$JobFilteredBy': $smarty->assign("JobFilteredBy",get_jobs_jobfilteredby_params()); break;
-			case '$KeywordAds': $smarty->assign("KeywordAds",get_jobs_keyword_ads()); break;
-			case '$AdvSearchJobsListTop': $smarty->assign("AdvSearchJobsListTop",get_advertiser_jobs_list_ads(0)); break;
-			case '$AdvSearchJobsListBottom': $smarty->assign("AdvSearchJobsListBottom",get_advertiser_jobs_list_ads(1)); break;
-			case '$BaseSiteURL': $smarty->assign("BaseSiteURL",get_base_site_url()); break;
-			case '$JobrollFormat': $smarty->assign("JobrollFormat",get_jobroll_format()); break;
-			case '$JobRollSettings': $smarty->assign("JobRollSettings",get_jobroll_settings()); break;
-			case '$JobRollJobsList': $smarty->assign_by_ref("JobRollJobsList",$job_list); break;
-			case '$JobRollMoreLink': $smarty->assign_by_ref("JobRollMoreLink",$jobroll_more_link); break;
-			case '$JobChannel': $smarty->assign_by_ref("JobChannel",$JobChannel); break;
-			case '$JobrollPublisherID': $smarty->assign_by_ref("JobrollPublisherID",$JobrollPublisherID); break;
-			case '$BrowseKeywordList': $smarty->assign("BrowseKeywordList",get_browse_keyword_list()); break;
-			case '$BrowseKeywordSettings': $smarty->assign("BrowseKeywordSettings",get_browse_keyword_settings()); break;
-			case '$BrowseKeywordListNavigation': $smarty->assign_by_ref("BrowseKeywordListNavigation",$BrowseKeywordListNavigation); break;
-			case '$BrowseKeywordListMostPopular': $smarty->assign_by_ref("BrowseKeywordListMostPopular",$BrowseKeywordListMostPopular); break;
-			case '$JobsInCountry': $smarty->assign("JobsInCountry",get_jobs_in_country_info()); break;
-			case '$input_value_what': $smarty->assign("input_value_what",get_input_value_what()); break;
-			case '$input_value_where': $smarty->assign("input_value_where",get_input_value_where()); break;
+			case '$JobCategories':
+				$smarty->assign("JobCategories",get_jobcategories_selectbox()); 
+				break;
+			case '$JobCategoriesList': 
+				$smarty->assign("JobCategoriesList",get_jobcategories_list()); 
+				break;
+			case '$JobCategoriesArrayList': 
+				$smarty->assign("JobCategoriesArrayList",get_jobcategories_list_array()); 
+				break;
+			case '$SiteTitle': 
+				$smarty->assign("SiteTitle",get_sitetitle()); 
+				break;
+			case '$SiteDescription': 
+				$smarty->assign("SiteDescription",get_sitedescription()); 
+				break;
+			case '$SiteKeywords': 
+				$smarty->assign("SiteKeywords",get_sitekeywords()); 
+				break;
+			case '$SearchRadiusList': 
+				$smarty->assign_by_ref("SearchRadiusList",$radius_array); 
+				break;
+			case '$SearchJobTypesList': 
+				$smarty->assign_by_ref("SearchJobTypesList",$jobs_type_array); 
+				break;
+			case '$SearchJobFromList': 
+				$smarty->assign_by_ref("SearchJobFromList",$jobs_from_array); 
+				break;
+			case '$SearchJobPublishedList': 
+				$smarty->assign_by_ref("SearchJobPublishedList",$jobs_published_array); 
+				break;
+			case '$SearchNumberResults': 
+				$smarty->assign_by_ref("SearchNumberResults",$number_results_array); 
+				break;
+			case '$ErrorMessage': 
+				$smarty->assign_by_ref("ErrorMessage",$my_error); 
+				break;
+			case '$SearchJobsList':
+				$smarty->assign_by_ref("SearchJobsList",$job_list); 
+				break;
+			case '$PagesList': 
+				$smarty->assign_by_ref("PagesList",$pages_list); 
+				break;
+			case '$ShowSearchType': 
+				$smarty->assign("ShowSearchType",get_search_type_selection()); 
+				break;
+			case '$ShowSearchOrder': 
+				$smarty->assign("ShowSearchOrder",get_search_order_selection()); 
+				break;
+			case '$ShowSearchResultStats': 
+				$smarty->assign("ShowSearchResultStats",get_search_results_stats()); 
+				break;
+			case '$ShowCategoriesLinks': 
+				$smarty->assign("ShowCategoriesLinks",get_categories_links_on_search_page()); 
+				break;
+			case '$ShowJobsPerPage': 
+				$smarty->assign("ShowJobsPerPage",get_jobs_per_page_buttons()); 
+				break;
+			case '$JobFilterParams': 
+				$smarty->assign("JobFilterParams",get_jobs_filter_params()); 
+				break;
+			case '$JobFilteredBy': 
+				$smarty->assign("JobFilteredBy",get_jobs_jobfilteredby_params()); 
+				break;
+			case '$KeywordAds': 
+				$smarty->assign("KeywordAds",get_jobs_keyword_ads()); 
+				break;
+			case '$AdvSearchJobsListTop': 
+				$smarty->assign("AdvSearchJobsListTop",get_advertiser_jobs_list_ads(0)); 
+				break;
+			case '$AdvSearchJobsListBottom': 
+				$smarty->assign("AdvSearchJobsListBottom",get_advertiser_jobs_list_ads(1));
+				break;
+			case '$BaseSiteURL': 
+				$smarty->assign("BaseSiteURL",get_base_site_url()); 
+				break;
+			case '$JobrollFormat': 
+				$smarty->assign("JobrollFormat",get_jobroll_format()); 
+				break;
+			case '$JobRollSettings': 
+				$smarty->assign("JobRollSettings",get_jobroll_settings()); 
+				break;
+			case '$JobRollJobsList': 
+				$smarty->assign_by_ref("JobRollJobsList",$job_list); 
+				break;
+			case '$JobRollMoreLink': 
+				$smarty->assign_by_ref("JobRollMoreLink",$jobroll_more_link); 
+				break;
+			case '$JobChannel': 
+				$smarty->assign_by_ref("JobChannel",$JobChannel); 
+				break;
+			case '$JobrollPublisherID': 
+				$smarty->assign_by_ref("JobrollPublisherID",$JobrollPublisherID); 
+				break;
+			case '$BrowseKeywordList': 
+				$smarty->assign("BrowseKeywordList",get_browse_keyword_list()); 
+				break;
+			case '$BrowseKeywordSettings': 
+				$smarty->assign("BrowseKeywordSettings",get_browse_keyword_settings()); 
+				break;
+			case '$BrowseKeywordListNavigation': 
+				$smarty->assign_by_ref("BrowseKeywordListNavigation",$BrowseKeywordListNavigation); 
+				break;
+			case '$BrowseKeywordListMostPopular': 
+				$smarty->assign_by_ref("BrowseKeywordListMostPopular",$BrowseKeywordListMostPopular); 
+				break;
+			case '$JobsInCountry':
+				$smarty->assign("JobsInCountry",get_jobs_in_country_info()); 
+				break;
+			case '$input_value_what': 
+				$smarty->assign("input_value_what",get_input_value_what()); 
+				break;
+			case '$input_value_where': 
+				$smarty->assign("input_value_where",get_input_value_where()); 
+				break;
 		}
 	}
 

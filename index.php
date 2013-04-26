@@ -12,6 +12,10 @@ require_once "index_functions.php";
 require_once $admin_dir_path."connect.inc";
 require_once $admin_dir_path."include/functions/functions_main.php";
 require_once $frontend_script_dir."app_cache_functions.php";
+// @todo: -- added by kenn
+require_once "search_functions.php";
+require_once "adsshowjobs.php";
+// @todo: -- added by kenn
 require_once $frontend_script_dir."common_functions.php";
 require_once $frontend_script_dir."common_statistic.php";
 

@@ -1,1 +1,4 @@
 frontend/templates_c/*
+.settings/*
+management/cache/*
+management/logs/*

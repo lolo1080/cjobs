@@ -1102,6 +1102,7 @@ class Smarty
      */
     function display($resource_name, $cache_id = null, $compile_id = null)
     {
+//     	var_dump($this->_tpl_vars);die();
         $this->fetch($resource_name, $cache_id, $compile_id, true);
     }
 
@@ -1116,10 +1117,10 @@ class Smarty
     function fetch($resource_name, $cache_id = null, $compile_id = null, $display = false)
     {
         static $_cache_info = array();
-        
+       
         $_smarty_old_error_level = $this->debugging ? error_reporting() : error_reporting(isset($this->error_reporting)
                ? $this->error_reporting : error_reporting() & ~E_NOTICE);
-
+		
         if (!$this->debugging && $this->debugging_ctrl == 'URL') {
             $_query_string = $this->request_use_auto_globals ? $_SERVER['QUERY_STRING'] : $GLOBALS['HTTP_SERVER_VARS']['QUERY_STRING'];
             if (@strstr($_query_string, $this->_smarty_debug_id)) {
@@ -1232,7 +1233,7 @@ class Smarty
                 }
             }
         }
-
+//         var_dump($this->_tpl_vars); // die(); // @todo: to be deleted
         // load filters that are marked as autoload
         if (count($this->autoload_filters)) {
             foreach ($this->autoload_filters as $_filter_type => $_filters) {
@@ -1306,6 +1307,7 @@ class Smarty
             error_reporting($_smarty_old_error_level);
             if (isset($_smarty_results)) { return $_smarty_results; }
         }
+        
     }
 
     /**
