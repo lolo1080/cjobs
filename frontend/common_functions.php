@@ -22,7 +22,7 @@ function prepare_template_values(&$cache_params_array,$template_id)
 			case '$AllowWithinSearch': $smarty->assign("AllowWithinSearch",get_allow_within_search()); break;
 		}
 		//Common
-// 		if (!in_array($k, $data_array)) continue;
+		if (!in_array($k, $data_array)) continue;
 		switch ($v["name"]) {
 			case '$JobCategories':
 				$smarty->assign("JobCategories",get_jobcategories_selectbox()); 
@@ -140,7 +140,10 @@ function prepare_template_values(&$cache_params_array,$template_id)
 				break;
 		}
 	}
-
+	
+	// @todo: -- added by kenn
+	$smarty->assign("JobsInCountry", " Jobs in United States");
+	
 	// * * Write cache * * //
 	//if use cache - save data
 	write_mydata_cache($cache_params_array,$data_array);
@@ -237,9 +240,9 @@ function get_jobcategories_list_array()
 		"userid"			=> 0, //$_SESSION["sess_userid"]
 		"section"			=> "homepage_template_values",
 		"table_name"	=> "jobcategories",
-		"params_list"	=> array(), //Они учавствуют в построении пути (как папки) //"params_list"	=> array("1","b")
+		"params_list"	=> array(), //"params_list"	=> array("1","b")
 		"query"				=> $sql,
-		"actual_time"	=> 31*60, //Время актуальности в сек.
+		"actual_time"	=> 31*60, 
 		"store_type"	=> "as_array" //Тип чтения: 1)"as_table" - в таблицу (имя "table_name") 2)"as_array" - в массив 	$cache_data_array
 	);
 
