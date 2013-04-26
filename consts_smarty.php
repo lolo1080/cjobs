@@ -3,6 +3,9 @@
 define("SMARTY_DIR",$admin_dir_path."/smarty/libs/");
 require_once(SMARTY_DIR."Smarty.class.php");
 
+// includes some constants
+require_once ('./consts.php'); // @todo: added by kenn
+
 //Main settings for Smarty
 $smarty = new Smarty;
 $smarty->template_dir = $frontend_script_dir."/templates/";

@@ -14,6 +14,7 @@ function prepare_template_values(&$cache_params_array,$template_id)
 			$data_array[] = $myrow["template_vid"];
 		}
 	}
+	
 	foreach ($templates_var_list as $k=>$v)
 	{
 		//Maybe present in sub-template (include in one from first level templates)

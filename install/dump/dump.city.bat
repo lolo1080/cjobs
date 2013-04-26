@@ -1,1 +1,0 @@
-mysqldump.exe -u root esjobsearchengine esjobsearchengine_city  esjobsearchengine_city_ip esjobsearchengine_region > site_config.sql

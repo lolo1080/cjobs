@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /esjobsearchengine/
+RewriteBase /cjobs/
 RewriteRule ^myjobs/*$ myjobs.php [L]
 RewriteRule ^jobs/*$ search.php [L]
 RewriteRule ^onejob-details/*$ onejob_details.php [L]
