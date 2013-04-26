@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>Help Center</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link href="../help.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body bgColor="#ffffff" text="#000000" leftMargin="0" topMargin="0" marginheight="0" marginwidth="0">
+
+<table border="0" cellPadding="10">
+<tr>
+	<td class="tbl_td_caption" colspan="2">The following section is intended for management HTML Feed configuration:</td>
+</tr>
+<tr>
+	<td class="tbl_td_caption">Regular expression</td>
+	<td class="tbl_td_content">This is main regular expression to parse main page content. Main page content parser will
+get content from URLs in "Parser information" column.
+<br /><b>For example:</b> <pre>~&lt;TR&gt;\s*?&lt;TD[^&lt;]+?&gt;&lt;FONT[^&lt;]+?&gt;[^&lt;]+?&lt;/FONT&gt;\s*?&lt;TD[^&lt;]+?VALIGN=MIDDLE[^&lt;]+?&gt;&lt;FONT.+?&gt;(&lt;B&gt;)*?&lt;A HREF=\"(.+?)\"&gt;(.+?)&lt;/A&gt;\s*?&lt;/FONT&gt;.*?&lt;TD.+?&gt;&lt;FONT.+?&gt;(.+?)-(.+?)-(.+?)&lt;/FONT&gt;.*?&lt;TD.+?&gt;&lt;FONT.+?&gt;&lt;A HREF=.*?&gt;(.+?)&lt;/A&gt;.*?&lt;TD.+?&gt;&lt;FONT.+?&gt;(.*?)&lt;/FONT&gt;~si</pre>
+	</tr>
+</tr>
+<tr>
+	<td class="tbl_td_caption">Return HTML field</td>
+	<td class="tbl_td_content">You should put the "Regular expression" part here. This part should have "{*MainRegExpr[...][...]*}" name.
+<br /><b>For example:</b> <pre>{*MainRegExpr[3][?]*}</pre><br />
+You can use "?" symbol to show variable part.
+	</td>
+</tr>
+<tr>
+	<td class="tbl_td_caption">Return PHP parsed HTML field </td>
+	<td class="tbl_td_content">You can put php code or constant string here. Note: returned php code result should be assigned to $result value
+<br /><b>For example:</b>
+Constant string: <pre>fulltime</pre><br />
+PHP code: <pre>$result = '{*MainRegExpr[2][?]*}';</pre><br />
+PHP code: <pre>$result = "fulltime";
+$content = get_content_from_site('{*MainRegExpr[2][?]*}','get');
+if ( preg_match("~Job Type:.+?</FONT><FONT.+?>(.+?)</FONT>~si", $content, $matches) ) {
+  if (isset($matches[1]) && ($matches[1] != '')) $result = $matches[1];
+}</pre><br />
+You can use "get_content_from_site" function to get content by URL: string get_content_from_site (string url, string method), where
+method can be "get" or "post".
+	</td>
+</tr>
+</table>
+
+</body>
+</html>

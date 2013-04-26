@@ -1,0 +1,71 @@
+PayPal payment.
+
+Transaction Information
+--------------------------------------------------
+PAYMENT_STATUS
+ "Canceled_Reversal"
+    This means a reversal has been canceled; for example, you, the merchant, won a dispute with
+    the customer and the funds for the transaction that was reversed have been returned to you.
+ "Completed"
+    If referring to an initial purchase, this means the payment has been completed and the
+    funds have successfully been added to your account balance.
+ "Denied"
+    You, the merchant, denied the payment. This will only happen if the payment was
+    previously pending due to one of the following pending reasons.
+ "Failed"
+    The payment has failed. This will only happen if the payment was made from your
+    customer's bank account.
+ "Pending"
+    The payment is pending; see the pending_reason variable for more information.
+    Please note, you will receive another Instant Payment Notification when the status of the
+    payment changes to "Completed," "Failed,"
+    or "Denied."
+ "Refunded"
+    You, the merchant, refunded the payment.
+ "Reversed"
+    This means that a payment was reversed due to a chargeback or other type of reversal.
+    The funds have been removed from your account balance and returned to the customer.
+    The reason for the reversal is given by the reason_code variable.
+--------------------------------------------------
+PENDING_REASON This variable is set only if PAYMENT_STATUS = Pending.
+ "address"
+    The payment is pending because your customer did not include a confirmed shipping address
+    and you, the merchant, have your Payment Receiving Preferences set such that you want to
+    manually accept or deny each of these payments. To change your preference, go to the
+    Preferences section of your Profile.
+ "echeck"
+    The payment is pending because it was made by an eCheck, which has not yet cleared.
+ "intl"
+    The payment is pending because you, the merchant, hold a non-U.S. account and do not have
+    a withdrawal method. You must manually accept or deny this payment from your Account Overview.
+ "multi_currency"
+    You do not have a balance in the currency sent, and you do not have your Payment Receiving
+    Preferences set to automatically convert and accept this payment. You must manually accept
+    or deny this payment.
+ "unilateral"
+    The payment is pending because it was made to an email address that is not yet registered
+    or confirmed.
+ "upgrade"
+    The payment is pending because it was made via credit card and you, the merchant,
+    must upgrade your account to Business or Premier status in order to receive the funds. You
+    could also get this status because you, the merchant, have reached the monthly limit for
+    transactions on your account.
+ "verify"
+    The payment is pending because you, the merchant, are not yet Verified. You must
+    verify your account before you can accept this payment.
+ "other"
+    The payment is pending for a reason other than those listed above. For more information,
+    contact customer service at https://www.paypal.com/cgi-bin/webscr?cmd=_contact-general.
+--------------------------------------------------
+REASON_CODE This variable is only set if PAYMENT_STATUS = "Reversed" or "Refunded".
+ "buyer_complaint"
+    A reversal has occurred on this transaction due to a complaint about the transaction
+    from your customer.
+ "chargeback"
+    A reversal has occurred on this transaction due to a chargeback by your customer.
+ "guarantee"
+    A reversal has occurred on this transaction due to your customer triggering a moneyback guarantee.
+ "refund"
+    A reversal has occurred on this transaction because you have given the customer a refund.
+ "other"
+    A reversal has occurred on this transaction for a reason other than those previously listed.

@@ -1,0 +1,107 @@
+<HTML>
+<HEAD>
+	<TITLE>JavaScript Toolbox - Color Picker Swatch Popup</TITLE>
+<SCRIPT LANGUAGE="Javascript" SRC="combined-compact/ColorPicker2.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+var cp = new ColorPicker('window'); // Popup window
+var cp2 = new ColorPicker(); // DIV style
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LINK="#00615F" VLINK="#00615F" ALINK="#00615F">
+<div style="border:50px solid red;padding:10px;">
+<h1>JavascriptToolbox.com Now Available!</h1>
+Almost all of my javascript code has been moved over to its new home at <a href="http://www.JavascriptToolbox.com/">The Javascript Toolbox</a>. Please go there to find the latest scripts, information, etc. These pages will remain here for a while for historical purposes in case anyone needs a production copy of old code.
+
+</div>
+
+<TABLE WIDTH=600 CELLPADDING=5>
+<TR>
+	<TD><IMG SRC="../icon.gif" WIDTH="130" HEIGHT="107" ALT="" BORDER="0"></TD>
+	<TD VALIGN=MIDDLE>
+		<FONT SIZE="+3">Color Picker</FONT>
+		<HR NOSHADE WIDTH=300 ALIGN=LEFT COLOR="black">
+		[<A HREF="../">Javascript Toolbox</A>]&nbsp;&nbsp;[<SPAN STYLE="background-color:yellow;">Example</SPAN>]&nbsp;&nbsp;[<A HREF="source.html">Source</A>]
+	</TD>
+
+</TR>
+</TABLE>
+
+<TABLE WIDTH="100%" BORDER="0"><TR><TD WIDTH="100%" ALIGN="LEFT" VALIGN="TOP">
+
+
+<U><B>Description:</B></U>
+<BR>
+
+This widget is used to select a color, in hexadecimal #RRGGBB form. It uses a color "swatch" to display the standard 216-color web-safe palette. The user can then click on a color to select it.
+<P>
+This script is very simple to implement, and can add a lot of style to your page that requires color values!<BR>
+<P>
+Because of the size of the table, this color picker may be slow on lower-end machines. Consider your target users when deciding whether or not it operates fast enough.
+<P>
+
+It also requires <A HREF="../anchorposition/">AnchorPosition.js</A> and <A HREF="../popupwindow/">PopupWindow.js</A>.
+
+<BR><BR>
+<B>Note:</B> Why are form elements or &lt;SELECT&gt; boxes showing
+over top of the DIV-style colorpicker popup? It's not a bug in the
+javascript - it's a bug/feature of browsers. See this
+<A href="http://www.webreference.com/dhtml/diner/seethru/">explanation</A>
+by WebReference.
+
+<BR><BR>
+
+<U><B>Example:</B></U><BR>
+(View the source of this page to see how easily all this was done!!)<BR>
+<BR>
+
+<FORM>
+<TABLE BORDER="1">
+<TR>
+	<TD>
+	This popup uses a "window" popup. Use this<BR>
+	For browsers that don't support DHTML.<BR>
+
+	Color: <INPUT TYPE="text" NAME="color" SIZE="20" VALUE=""> <A HREF="#" onClick="cp.select(document.forms[0].color,'pick');return false;" NAME="pick" ID="pick">Pick</A>
+	</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="1">
+<TR>
+	<TD>
+	This popup uses a DHTML "layer". It looks<BR>
+
+	nicer, but won't work in older browsers and<BR>
+	The color popup won't display over some form<BR>
+	elements in some browsers!<BR>
+	Color: <INPUT TYPE="text" NAME="color2" SIZE="20" VALUE=""> <A HREF="#" onClick="cp2.select(document.forms[0].color2,'pick2');return false;" NAME="pick2" ID="pick2">Pick</A>
+	</TD>
+</TR>
+
+</TABLE>
+</FORM>
+
+<SCRIPT LANGUAGE="JavaScript">cp.writeDiv()</SCRIPT>
+
+</TD><TD VALIGN="TOP">
+<script type="text/javascript">
+google_ad_client = "pub-9155030588311591";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_color_border = "006666";
+google_color_bg = "FFFFFF";
+google_color_link = "006666";
+google_color_url = "006666";
+google_color_text = "000000";
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</TD></TR></TABLE>
+
+
+
+</BODY>
+</HTML>
+

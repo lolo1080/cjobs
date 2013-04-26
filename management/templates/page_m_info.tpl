@@ -1,0 +1,20 @@
+<table class="regular" cellpadding="5" border="0" width="100%">
+	<tr><td class="bregular">{$Greetings}</td></tr>
+	<tr><td>{$welcome_cp}</td></tr>
+	<tr><td>{$info_cp}</td></tr>
+	<tr><td>{$info_help}</td></tr>
+	<tr><td class="bregular">{$account_info}</td></tr>
+	<tr><td>{$account_balance}</td></tr>
+	<tr><td>{$xml_status}</td></tr>
+	<tr><td>{$aff_status}</td></tr>
+	<tr>
+		<td>
+			<table border="0" class="regular" cellPadding="0" cellSpacing="0" width="270">
+				<tr><td>{$activation_str}</td><td>{$activation_status}</td></tr>
+				<tr><td>&nbsp;</td><td>{$activation_sum}</td></tr>
+				<tr><td>&nbsp;</td><td>{$activation_limit}</td></tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td>{$news_info}</td></tr>
+</table>

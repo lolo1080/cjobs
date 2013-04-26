@@ -1,0 +1,14 @@
+$result = "";
+$desregexpr1 = '~Click Here to Apply Online</a>.+?<P>(.+?)<P>~si';
+$desregexpr2 = '~Resume Guide</a>(.+)~si';
+$content = get_content_from_site('{*MainRegExpr[2][?]*}','get');
+//try to parse case #1
+if ( preg_match($desregexpr1, $content, $matches) ) {
+  if (isset($matches[1]) && ($matches[1] != '')) $result = $matches[1];
+	//try to parse case #2
+	else {
+		if ( preg_match($desregexpr2, $content, $matches) ) {
+		  if (isset($matches[1]) && ($matches[1] != '')) $result = $matches[1];
+		}
+	}
+}

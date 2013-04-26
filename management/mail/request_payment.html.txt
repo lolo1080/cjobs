@@ -1,0 +1,6 @@
+        Affiliate payment request
+
+Affiliate e-mail: {*email*}
+Affiliate name: {*name*}
+Amount: {*amount*}
+Payment system: {*payment_system*}

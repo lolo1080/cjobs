@@ -1,0 +1,23 @@
+Dear {*name*} !
+
+You recently signed up with  {*site_title*}. Did you know you can earn $ 400.00 or more per
+month, just by adding our url with your Affiliate ID iinto your email signature. If you'll have active
+approach, you can earn over $ 1,500.00 per month.
+
+User name: {*username*}
+Password:  {*password*}
+
+
+You can test your statistic at our search engine:
+{*login_url_txt*} 
+ 
+If you would like to join our group of special affiliates and receive guidance from our staff, please
+contact us at {*webmaster_email_txt*}. Our staff can help you earn 2 - 5 times more
+money then do it yourself.
+
+Check your statistics and see real time stats 24/7.
+If you have any questions or suggestions please contact us at {*webmaster_email_txt*}.
+
+Good luck !
+
+Admin {*site_title*}

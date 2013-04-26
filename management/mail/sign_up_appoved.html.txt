@@ -1,0 +1,8 @@
+Dear user !
+
+Your account was approved by site admin
+ 
+
+Good luck !
+
+Admin  {*site_title*}

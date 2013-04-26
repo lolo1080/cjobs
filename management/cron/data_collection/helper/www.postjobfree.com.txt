@@ -1,0 +1,968 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>
+	administrative assistant jobs
+</title><link id="AlternateLink" rel="Alternate" type="application/rss+xml" title="administrative assistant Category job results from PostJobFree.com" href="/RssJobCategory.ashx?q=administrative+assistant" /><style type="text/css">
+body,td,div,p,a,font,span {font-family: arial,sans-serif;}
+body { background-color:#ffffff }
+h1,h2,h3,h4,h5 {margin-bottom:5px}
+p { margin-top:6px; margin-bottom:6px;}
+ol { margin-top:3px;}
+ul { margin-top:3px;}
+li { margin-bottom:3px;}
+table { border-collapse:collapse; }
+a:link {color:#0000cc;border-bottom-style:dotted;border-width:thin;text-decoration:none;}
+a:link.nounderline {border-bottom-style:none;}
+a:visited.nounderline {border-bottom-style:none;}
+a:visited { color:#551a8b;border-bottom-style:dotted;border-width:thin;text-decoration:none;}
+a:active { color:#ff0000;}
+.form-noindent {background-color: Red; border: #C3D9FF 1px solid}
+.f { color:Gray;}
+
+.Odd{background-color:#EEFFEE;}
+.Even{background-color:#E3F3E3;}
+
+.OddCompany{background-color:#EEEEFF;}
+.EvenCompany{background-color:#E3E3F3;}
+
+.OddRecruiter{background-color:#EEFFFF;}
+.EvenRecruiter{background-color:#E3F3F3;}
+.SpamRecruiter{background-color:#FFE0E0;}
+.SpamRecruiterOdd{background-color:#FFE5E5;}
+
+.bb{border-bottom:1px solid #d0d0d0;}
+.bt{border-top:1px solid #d0d0d0;}
+.ba{border:1px solid #d0d0d0;}
+.t{background:#e0e0e0;color:Black;}
+
+.tdbt td{ border-top: solid 1px #e5e5e5; }
+
+.LSpace{margin-left:50px;}
+.JobRow{padding:1px;}
+.Location{color:Maroon;}
+a.Location{color:Maroon;}
+.Company{color:Green;}
+.PostedDate{color:Gray;}
+span.time {font-size:x-small;}
+
+.GoogAdsR{border-right: 1px solid #cad8f3;}
+.GoogAdsL{border-left: 1px solid #cad8f3;}
+.CategoryLB{border-left: 1px solid #cad8f3; border-bottom: 1px solid #cad8f3;}
+
+.ContactLink{border-color:#40eeaa;border-width:thin;font-size:1.3em;font-weight:bold;padding:5px;background-color:#C0FFB0;text-decoration:none; border-style:outset; }
+.ContactLinkOrange{border-color:#333366;border-width:thin;font-size:1.3em;font-weight:bold;padding:5px;background-color:#FF9966;text-decoration:none; border-style:outset; }
+
+.DontFeed{background-color:#fffacd;}
+
+.main div{margin-right:20px;}
+.fixedsize { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+
+a.apply
+{
+	background-color: #ff7811;
+	background-image: url(http://www.postjobfree.com/Images/bbi.gif);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #ff8012;
+	clear: both;
+	font-size: 1.3em;
+	font-weight: bold;
+	padding: 7px 12px;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #ffcc80;
+	white-space: nowrap;
+}
+a.apply:active { color:#008080; }
+a.apply:hover {	text-decoration:underline; }
+a.floatright { float:right; }
+
+.itm { font-size: 14px; padding:1px 6px; cursor:pointer; }
+.sitm { background:#CDDDFA; color:#000; }
+.acd { border: 1px solid #333; background: #fff; position:absolute; width:100%; z-index: 1; }
+#acr td {text-align:left; padding-top:0; padding-bottom:0; }
+</style>
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-142564-2']);
+_gaq.push(['_trackPageview']);
+</script>
+
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAyaD4F5GX_6c3wux6du4RpRQ56UhOc-RWzA0JQUGzSBCB5akkghRu0t3m9DccYgxrfc9sc5nFXvBbVQ"></script>
+<script type="text/javascript">google.load('maps', '3', { other_params: 'sensor=false' });</script>
+
+</head>
+<body>
+	<table width="100%" cellspacing="0" class="bb"><tr><td style="width:100pt"><a href="/" class="nounderline"><img id="PJFLogo" src="/Images/small_logo.gif" alt="Post Job Free" style="border-width:0px;" /></a></td><td style="white-space:nowrap"> &nbsp; <span style="font-size:large;"> <b> administrative assistant jobs</b></span></td><td style="white-space:nowrap" align="right"><a href="/login?ReturnUrl=%2fCategoryJob.aspx%3fq%3dadministrative%2bassistant" rel="nofollow">Login</a></td></tr></table>
+	<div class="main">
+	<table width="100%">
+		<tr align="center">
+			<td>
+
+				<table cellspacing="5" style="text-align:center">
+					<tr>
+						<td>
+<form id="FormGet" method="get" action="/JobList.aspx" onsubmit="return submitHandler();">
+<span style="font-size:small">Search for:</span> <b><a id="JobLink" style="text-decoration:none;color:Black;border-bottom-style:none;" href="/JobList.aspx?q=administrative+assistant&amp;l=" onclick="ctl('FormGet').action='/JobList.aspx';setC('JobLink','ResumeLink');return linkAction();">Jobs</a> &nbsp;
+<a id="ResumeLink" style="text-decoration:underline;font-size:small;border-bottom-style:none;" href="/ResumeList.aspx?q=administrative+assistant&amp;l=" onclick="ctl('FormGet').action='/ResumeList.aspx';setC('ResumeLink','JobLink');return linkAction();">Resumes</a></b><br />
+<table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+
+		<td><input id="q" value="administrative assistant" name="q" size="30" maxlength="150" /></td>
+		<td><input id="l" name="l" onblur="geocode();return false;" value="" size="24" maxlength="150" /></td>
+		<td><input type="submit" id="search" value="Search" /></td>
+	</tr>
+	<tr id="acr">
+<td/><td colspan="2">
+
+<div style="position: relative; max-width:300px; z-index: 2;"><div id="lacdiv" class="acd" style="display: none;"></div></div>
+<script type="text/javascript">
+//<![CDATA[
+
+var lacs = function() {
+var itemClass = 'itm';
+var selectedItemClass = 'itm sitm';
+
+function $(id) { return document.getElementById(id); }
+
+function unbold(s) { return s.replace(/\<\/?b\>/gi, ''); }
+
+function dlac(show) {
+	var iframe_id = 'pjfifid';
+	var ifrm = $(iframe_id);
+	lacdiv.style.display = show ? 'block' : 'none';
+	if (!ifrm) {
+		ifrm = document.createElement('iframe');
+		ifrm.id = iframe_id;
+		ifrm.style.position = 'absolute';
+		ifrm.frameBorder = 0;
+		ifrm.setAttribute('tabindex', 1000);
+		lacdiv.parentNode.insertBefore(ifrm, lacdiv.parentNode.firstChild);
+	}
+	if (show) {
+		ifrm.width = lacdiv.offsetWidth;
+		ifrm.height = lacdiv.offsetHeight;
+		ifrm.style.display = '';
+		document.onclick = function () { dlac(0); document.onclick = null; }
+	} else {
+		ifrm.style.display = 'none';
+	}
+}
+
+function keyuphandler(e) {
+	if (!e && window.event) e = window.event;
+	var kc = e.keyCode;
+	switch (kc) {
+		case arrowUpKeyCode:
+		case arrowDownKeyCode:
+		case 9: case 12: case 16: case 17: case 18: case 19: case 20: case 27:
+		case 33: case 34: case 35: case 36: case 37: case 39: case 45: break;
+		case 13: whereBox.blur(); break;
+		default: queueLacRequest(whereBox.value);
+	}
+	return 1;
+}
+
+function keydownhandler(e) {
+	if (!e && window.event) e = window.event;
+	var kc = e.keyCode;
+	switch (kc) {
+		case 9: tabout(e); return; break;
+		case 13: tabout(e); break;
+		case 27: clrsugg(e); break;
+		case arrowUpKeyCode: case arrowDownKeyCode: if (!e.shiftKey) arrows(kc); break;
+	}
+	return 1;
+}
+
+function clrsugg(e) {
+	dlac(0);
+	selectedItem = '';
+	setTimeout("whereBox.value=lastTyped", 10);
+}
+
+function tabout(e) {
+	if (!e && window.event) e = window.event;
+	dlac(0);
+	selectedItem = (sindex >= 0) ? whereBox.value : '';
+}
+
+function arrows(keyCode) {
+	if (nomatches) return;
+	var hidn = lacdiv.style.display == 'none';
+	if (hidn) dlac(1);
+	var spans = lacdiv.getElementsByTagName('div');
+	if (!hidn) {
+		if (keyCode == arrowUpKeyCode) {
+			if (sindex < 0) sindex = spans.length;
+			sindex--;
+		} else if (keyCode == arrowDownKeyCode) {
+			sindex++;
+			if (sindex >= spans.length) sindex = -1;
+		}
+		selectedItem = '';
+		if (sindex < 0 || sindex >= spans.length) { whereBox.value = lastTyped; } else { selectedItem = spans[sindex]; }
+	}
+	for (var i = 0; i < spans.length; i++) {
+		if (i == sindex) {
+			spans[i].className = selectedItemClass;
+			whereBox.value = unbold(spans[i].innerHTML);
+		} else {
+			spans[i].className = itemClass;
+		}
+	}
+}
+
+function queueLacRequest(val) {
+	if (window.pjf_timer) clearTimeout(window.pjf_timer);
+	window.pjf_timer = setTimeout('lacs.lacRequest("' + encodeURIComponent(val) + '")', 100);
+	lastTyped = val;
+	selectedItem = '';
+	return false;
+}
+
+function onMOver() {
+	var el = this;
+	var txt = el.innerHTML;
+	var ch = lacdiv.childNodes;
+	for (var i = 0; i < ch.length; i++) {
+		var value = ch[i].innerHTML;
+		if (value == txt) {
+			sindex = i;
+		} else {
+			ch[i].className = itemClass;
+		}
+	}
+	el.className = selectedItemClass;
+}
+
+function onClick() {
+	dlac(0);
+	whereBox.value = selectedItem = unbold(this.innerHTML);
+
+$('search').focus();
+
+}
+var nomatches = 1;
+var sindex = -1;
+var whereBox = $('l');
+var lacdiv = $('lacdiv');
+var lastTyped = whereBox.value;
+var selectedItem = '';
+var arrowUpKeyCode = 38;
+var arrowDownKeyCode = 40;
+whereBox.setAttribute('autocomplete', "off");
+whereBox.onkeyup = keyuphandler;
+whereBox.onkeydown = keydownhandler;
+
+	return {
+		lacRequest : function (val) {
+			var headEl = document.getElementsByTagName("head")[0];
+			if (window.pjf_sc) headEl.removeChild(window.pjf_sc);
+			window.pjf_sc = document.createElement("script");
+window.pjf_sc.src = '/lac.ashx?l=' + val;
+
+			headEl.appendChild(window.pjf_sc);
+		},
+		fill_where : function (val) {
+			var matches = val;
+			while (lacdiv.childNodes.length > 0) lacdiv.removeChild(lacdiv.childNodes[0]);
+			if (matches.length == 0) {
+				nomatches = 1;
+				sindex = -1;
+				dlac(0);
+				return;
+			}
+			nomatches = 0;
+			sindex = -1;
+			for (var i = 0; i < matches.length; i++) {
+				var u = document.createElement("div");
+				u.className = itemClass;
+				u.onmouseover = onMOver;
+				u.onclick = onClick;
+				u.innerHTML = matches[i];
+				lacdiv.appendChild(u);
+			}
+			dlac(1);
+		}
+	};
+} ();
+
+//]]>
+</script>
+</td></tr>
+
+	<tr style="font-size:small">
+		<td>Keywords or title</td>
+		<td>City, state or zip code</td>
+	</tr>
+</table>
+<input type="hidden" id="lat" name="lat" />
+<input type="hidden" id="lng" name="lng" />
+<input type="hidden" id="lct" name="lct" />
+<input type="hidden" id="ls" name="ls" />
+<input type="hidden" id="lc" name="lc" />
+<input type="hidden" id="lz" name="lz" />
+
+<input type="hidden" id="address" name="address" />
+<input type="hidden" id="accuracy" name="accuracy" />
+</form>
+</td>
+						<td><span style="font-size:small"><a href="/AdvancedJobSearch.aspx?q=administrative+assistant&r=10&radius=25" id="advancedJobSearchLink">Advanced Job Search</a></span></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table width="100%">
+		<tr valign="top">
+			<td>
+				
+<div style="text-align:left; color:Gray; vertical-align:top; padding-left:5px;" class="GoogAdsR" >
+
+<b>Similar Jobs:</b><br />
+
+		<a href="/CategoryJob.aspx?q=administrative" class="nounderline">administrative</a>
+ - 4252<br />
+
+	
+		<a href="/CategoryJob.aspx?q=receptionist" class="nounderline">receptionist</a>
+ - 648<br />
+	
+		<a href="/CategoryJob.aspx?q=personal+assistant" class="nounderline">personal assistant</a>
+ - 547<br />
+	
+		<a href="/CategoryJob.aspx?q=medical+assistant" class="nounderline">medical assistant</a>
+ - 919<br />
+
+	
+		<a href="/CategoryJob.aspx?q=office+assistant" class="nounderline">office assistant</a>
+ - 1297<br />
+	
+		<a href="/CategoryJob.aspx?q=assistant" class="nounderline">assistant</a>
+ - 4839<br />
+	
+		<a href="/CategoryJob.aspx?q=executive+assistant" class="nounderline">executive assistant</a>
+ - 462<br />
+
+	
+		<a href="/CategoryJob.aspx?q=data+entry" class="nounderline">data entry</a>
+ - 1930<br />
+	
+		<a href="/CategoryJob.aspx?q=clerical" class="nounderline">clerical</a>
+ - 691<br />
+	
+		<a href="/CategoryJob.aspx?q=part+time" class="nounderline">part time</a>
+ - 9994<br />
+
+	
+		<a href="/CategoryJob.aspx?q=human+resources" class="nounderline">human resources</a>
+ - 2459<br />
+	
+		<a href="/CategoryJob.aspx?q=accounting" class="nounderline">accounting</a>
+ - 6911<br />
+	
+		<a href="/CategoryJob.aspx?q=dental+assistant" class="nounderline">dental assistant</a>
+ - 529<br />
+
+	
+		<a href="/CategoryJob.aspx?q=customer+service" class="nounderline">customer service</a>
+ - 12845<br />
+	
+		<a href="/CategoryJob.aspx?q=entry+level" class="nounderline">entry level</a>
+ - 2309<br />
+	
+<br />
+
+
+<b>Similar Resumes:</b><br />
+
+		<a href="/CategoryResume.aspx?q=administrative+assistant" class="nounderline">administrative assistant</a>
+ - 23919<br />
+	
+		<a href="/CategoryResume.aspx?q=receptionist" class="nounderline">receptionist</a>
+ - 11063<br />
+	
+		<a href="/CategoryResume.aspx?q=medical+assistant" class="nounderline">medical assistant</a>
+ - 14633<br />
+
+	
+		<a href="/CategoryResume.aspx?q=administrative" class="nounderline">administrative</a>
+ - 33630<br />
+	
+		<a href="/CategoryResume.aspx?q=executive+assistant" class="nounderline">executive assistant</a>
+ - 10565<br />
+	
+		<a href="/CategoryResume.aspx?q=personal+assistant" class="nounderline">personal assistant</a>
+ - 11515<br />
+
+	
+		<a href="/CategoryResume.aspx?q=clerical" class="nounderline">clerical</a>
+ - 11067<br />
+	
+<br />
+<a href="/Categories.aspx" id="CategoryLinks1_categoriesLink" style="font-size:smaller" class="nounderline">Jobs vs Resumes</a>
+<br />
+</div>
+			</td>
+			<td>
+				
+				<table width="100%" class="OddCompany" cellspacing="0" cellpadding="0" border="0">
+
+				<tr><td><a id="mapSwitch" href="#" onclick="switchMap(this); _gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'MapSwitchClick']);">Show Map</a></td>
+					<td align="right"><a href="/RssJobCategory.ashx?q=administrative+assistant" id="rssFeedLink" style="font-size:small">View as RSS feed</a></td>
+					<td align="right" style="width:20%;">Jobs <b>1</b> - <b>10</b> of <b>1208</b></td></tr>
+				</table>
+
+				<div id="map_canvas" style="width: 350px; height: 250px; display:none;" onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'MainMapClick']);"></div>
+				
+				
+					<div class="JobRow">
+						<h3><a id="it0" style="font-size:large" href="/job/e1truc/administrative-assistant-data-silver-spring-md">Admin Assistant - Recent Grad - Immediate Need</a></h3>
+						<span id="ic0" class="Company">Dextrys </span> -
+						<span id="il0" class="Location">Silver Spring, MD</span>
+						<a href='javascript:loadMapAndShowBalloon("0")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 0]);">map</a>
+						<br />... We are currently searching for a <b>administrative</b> <b>assistant</b>. Responsiblity: -Scanning, saving PDF on soft copy -Data Entry into database. ...
+						- <span id="repeaterJobs_postedDate_0" class="PostedDate">May 24</span>
+
+						<input id='p0' value="39.004150,-77.039175" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it1" style="font-size:large" href="/job/e922j4/needed-administrative-assistant-office-spring-tx">Administrative Assistant needed</a></h3>
+						<span id="ic1" class="Company">TheRecruiterNetwork.com</span> -
+						<span id="il1" class="Location">Spring, TX</span>
+						<a href='javascript:loadMapAndShowBalloon("1")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 1]);">map</a>
+						<br />... <b>Administrative</b> <b>Assistant</b> needed for a good company. College degree preferred. Exceptional knowledge of Microsoft Office (Word, Excel, PowerPoint ...
+						- <span id="repeaterJobs_postedDate_1" class="PostedDate">May 23</span>
+
+						<input id='p1' value="30.079941,-95.417160" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it2" style="font-size:large" href="/job/jitb6b/administrative-assistant-frankfort-ky-40601">Personal Assistant / Administrative</a></h3>
+						<span id="ic2" class="Company">Lime Lite</span> -
+						<span id="il2" class="Location">Frankfort, KY</span>
+						<a href='javascript:loadMapAndShowBalloon("2")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 2]);">map</a>
+						<br />National Company looking for someone to join the team we are growing and have several postions to fill will be working 20 hours a week answering...
+						- <span id="repeaterJobs_postedDate_2" class="PostedDate">May 10</span>
+
+						<input id='p2' value="38.200906,-84.873284" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it3" style="font-size:large" href="/job/b59l9r/administrative-assistant-temporary-san-mateo-ca">Temporary Administrative Assistant</a></h3>
+						<span id="ic3" class="Company">Vaco</span> -
+						<span id="il3" class="Location">San Mateo, CA</span>
+						<a href='javascript:loadMapAndShowBalloon("3")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 3]);">map</a>
+						<br />We are in search of a superstar to assist our international team here in San Mateo. Responsibilities: • Expense Report preparation - organize then...
+						- <span id="repeaterJobs_postedDate_3" class="PostedDate">May 20</span>
+
+						<input id='p3' value="37.562992,-122.325525" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it4" style="font-size:large" href="/job/adhrgc/administrative-assistant-media-albany-ga-31707">Administrative Assistant</a></h3>
+						<span id="ic4" class="Company">Cumulus Media</span> -
+						<span id="il4" class="Location">Albany, GA</span>
+						<a href='javascript:loadMapAndShowBalloon("4")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 4]);">map</a>
+						<br />... Cumulus Media of Albany has an immediate opening for a full-time <b>Administrative</b> <b>Assistant</b>. Applicants must have strong organizational skills and ...
+						- <span id="repeaterJobs_postedDate_4" class="PostedDate">May 23</span>
+
+						<input id='p4' value="31.576638,-84.196256" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it5" style="font-size:large" href="/job/jmeh07/administrative-assistant-legal-worcester-ma-48034">Legal Admin - Immediate Need - Worcester, Ma</a></h3>
+						<span id="ic5" class="Company">Dextrys </span> -
+						<span id="il5" class="Location">Worcester, MA</span>
+						<a href='javascript:loadMapAndShowBalloon("5")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 5]);">map</a>
+						<br />... Legal <b>Administrative</b> <b>Assistant</b> We are looking for a Legal <b>administrative</b> <b>assistant</b> on behalf of our client, a leader in the property and casualty ...
+						- <span id="repeaterJobs_postedDate_5" class="PostedDate">May 25</span>
+
+						<input id='p5' value="42.263759,-71.800340" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it6" style="font-size:large" href="/job/qobjxr/administrative-assistant-personal-irvine-ca-92606">Personal assistant/Administrative</a></h3>
+						<span id="ic6" class="Company">Lime Lite</span> -
+						<span id="il6" class="Location">Irvine, CA</span>
+						<a href='javascript:loadMapAndShowBalloon("6")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 6]);">map</a>
+						<br />Looking for individuals for a National Company willing to work flexable hours, follow directions in a timely manner Personally handle problems set...
+						- <span id="repeaterJobs_postedDate_6" class="PostedDate">May 10</span>
+
+						<input id='p6' value="33.697845,-117.816489" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it7" style="font-size:large" href="/job/hjri65/administrative-assistant-telephone-atka-ak-99547">Administrative Assistance</a></h3>
+						<span id="ic7" class="Company">craigs</span> -
+						<span id="il7" class="Location">Atka, AK</span>
+						<a href='javascript:loadMapAndShowBalloon("7")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 7]);">map</a>
+						<br />... This <b>administrative</b> <b>assistant</b> will be working directly with management handling all matters. Duties include handling telephone calls,filing , faxing ...
+						- <span id="repeaterJobs_postedDate_7" class="PostedDate">May 16</span>
+
+						<input id='p7' value="63.588753,-154.493062" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it8" style="font-size:large" href="/job/ctiiwt/administrative-assistant-united-arab-emirates">Administrative Assistant - F82PJF</a></h3>
+						<span id="ic8" class="Company">Global Jobs Services</span> -
+						<span id="il8" class="Location">GB, United Arab Emirates</span>
+						<a href='javascript:loadMapAndShowBalloon("8")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 8]);">map</a>
+						<br />... Relocation to the UAE Manage all <b>administrative</b> needs of the division’s employees and managers Duties include: • Personal <b>assistant</b> to the Division ...
+						- <span id="repeaterJobs_postedDate_8" class="PostedDate">May 23</span>
+
+						<input id='p8' value="55.378051,-3.435973" type="hidden" /></div>
+					
+					<div class="JobRow">
+						<h3><a id="it9" style="font-size:large" href="/job/i8ihju/administrative-assistant-tempe-az-85281-2105">Bilingual Administrative Assistant</a></h3>
+						<span id="ic9" class="Company">Integrated Landscape Management, LLC</span> -
+						<span id="il9" class="Location">Tempe, AZ</span>
+						<a href='javascript:loadMapAndShowBalloon("9")'
+							onclick="_gaq.push(['_trackEvent', 'Maps', 'CategoryJob', 'DetailsClick', 9]);">map</a>
+						<br />... contracts for signatures 2+ Years experience supporting at the <b>administrative</b> level Bilingual - English/Spanish (speaking, writing and reading ...
+						- <span id="repeaterJobs_postedDate_9" class="PostedDate">May 23</span>
+
+						<input id='p9' value="33.432436,-111.934364" type="hidden" /></div>
+					
+			</td>
+		</tr>
+	</table>
+	<br />
+	
+	<div style="text-align:center; width:100%;">
+		<a href="/JobList.aspx?p=2&q=administrative+assistant" id="jobListLink" rel="nofollow">>> More jobs in that category >></a>
+	</div>
+
+	
+	</div>
+	<br/><br/><table width="100%" cellspacing="0"><tr>
+<td align="center" style="font-size:small;">&copy;2011&nbsp;<a href="/">PostJobFree.com</a>&nbsp;|&nbsp;<i>feedback</i><i>@</i><i>postjobfree.com</i></td></tr></table><script type="text/javascript">
+//<![CDATA[
+
+var map;
+var markersArray = [];
+var arrowArray = [];
+
+function ctl(id){return document.getElementById(id)}
+
+function log(msg) { new Image().src = '/bf.ashx?m=' + escape(msg); }
+
+function placeArrow(location, zoom) {
+	deleteOverlays();
+	map.setCenter(location);
+	var image = new google.maps.MarkerImage('http://www.google.com/mapfiles/arrow.png',
+		new google.maps.Size(38, 34),
+		new google.maps.Point(0, 0),
+		new google.maps.Point(10, 34));
+	var shadow = new google.maps.MarkerImage('http://www.google.com/mapfiles/arrowshadow.png',
+		new google.maps.Size(38, 34),
+		new google.maps.Point(0, 0),
+		new google.maps.Point(10, 34));
+	var arrow = new google.maps.Marker({
+		position: location,
+		map: map,
+		shadow: shadow,
+		icon: image,
+		title: ''
+	});
+	arrowArray.push(arrow);
+	map.setZoom(zoom);
+}
+function deleteOverlays() {
+	if (markersArray) {
+		for (i in markersArray) { markersArray[i].setMap(null); }
+		markersArray.length = 0;
+	}
+	if (arrowArray) {
+		for (i in arrowArray) { arrowArray[i].setMap(null); }
+		arrowArray.length = 0;
+	}
+}
+
+function getLocationComponent(googlePlace, locationComponentType) {
+	for (var i = 0; i < googlePlace.address_components.length; i++) {
+		switch (googlePlace.address_components[i].types[0]) {
+			case locationComponentType:
+				return googlePlace.address_components[i].short_name;
+		}
+	}
+	return "";
+}
+function getCountryCode(googlePlace) {
+	return getLocationComponent(googlePlace, "country");
+}
+function getStateCode(googlePlace) {
+	return getLocationComponent(googlePlace, "administrative_area_level_1");
+}
+function getCityName(googlePlace) {
+	var city = getLocationComponent(googlePlace, "locality");
+	if (city == "") {
+		return getLocationComponent(googlePlace, "colloquial_area");
+	}
+	return city;
+}
+function getPostalCode(googlePlace) {
+	return getLocationComponent(googlePlace, "postal_code");
+}
+function getLatitude(googlePlace) {
+	return googlePlace.geometry.location.lat();
+}
+function getLongitude(googlePlace) {
+	return googlePlace.geometry.location.lng();
+}
+
+var needToClickSearch = false;
+var uLocation='';
+var inProgress = false;
+
+function sf() { ctl('q').focus(); }
+
+function clearHiddenFields() {
+	ctl('lat').value = '';
+	ctl('lng').value = '';
+	ctl('lct').value = '';
+	ctl('ls').value = '';
+	ctl('lc').value = '';
+	ctl('lz').value = '';
+	ctl('lz').value = '';
+	ctl('accuracy').value = '';
+	ctl('address').value = '';
+}
+
+function saveLocation(googlePlace) {
+ctl('lat').value = getLatitude(googlePlace);
+ctl('lng').value = getLongitude(googlePlace);
+ctl('lct').value = getCountryCode(googlePlace);
+ctl('ls').value = getStateCode(googlePlace);
+ctl('lc').value = getCityName(googlePlace);
+ctl('lz').value = getPostalCode(googlePlace);
+ctl('accuracy').value = accuracy(googlePlace);
+ctl('address').value = googlePlace.formatted_address;
+inProgress=false;
+}
+
+function accuracy(googlePlace) {
+	var zoom = null;
+	if (getCountryCode(googlePlace) !== '') zoom = 1;
+	if (getStateCode(googlePlace) !== '') zoom = 2;
+	if (getCityName(googlePlace) !== '') zoom = 4;
+	if (getPostalCode(googlePlace) !== '') zoom = 5;
+	return zoom;
+}
+
+function geocode() {
+	if (inProgress == true) return;
+	uLocation = ctl('l').value;
+	if (uLocation.length > 0) {
+		inProgress = true;
+		var geocoder = new google.maps.Geocoder();
+		var address = uLocation;
+		if (geocoder) {
+			geocoder.geocode({ 'address': address }, geocodingResultsPostBack);
+		}
+	}
+	else {clearHiddenFields();}
+}
+
+function geocodingResultsPostBack(results, status) {
+	if (status == google.maps.GeocoderStatus.OK) {
+		var placemarkLength = results.length;
+		switch (placemarkLength) {
+			case 0:
+				handleBadGeocoding(status);
+				break;
+			default:
+				saveLocation(results[0]);
+				clickSearchIfNeeded(); break;
+				break;
+		}
+	} else {
+		handleBadGeocoding(status);
+	}
+}
+
+function handleBadGeocoding(status) {
+	var message = 'Location: ' + uLocation + '; Status: ' + status;
+	log(message);
+	clearHiddenFields();
+	inProgress = false;
+	clickSearchIfNeeded();
+}
+
+function clickSearchIfNeeded() {
+	if (needToClickSearch == true) { searchClick(); }
+}
+
+function searchClick() { ctl('search').click(); }
+
+function setC(c1, c2) {
+	c1 = ctl(c1);
+	c2 = ctl(c2);
+	c1.style.textDecoration = 'none';
+	c1.style.color = 'black';
+	c1.style.fontSize = 'medium';
+	c2.style.textDecoration = 'underline';
+	c2.style.color = 'blue';
+	c2.style.fontSize = 'small';
+}
+
+function submitHandler() {
+	if (inProgress == true) {
+		needToClickSearch = true;
+		return false;
+	}
+	if (uLocation == ctl('l').value) {
+		needToClickSearch = false;
+		return true;
+	}
+	needToClickSearch = true;
+	geocode();
+	return false;
+}
+
+function linkAction() {
+	sf();
+	if ((ctl('q').value != '') || (ctl('l').value != '')) { searchClick(); }
+	return false;
+}
+
+var isMapOn=false;
+var latlngarr;
+
+var infoWindows = [];
+
+function switchMap(a) {
+if (isMapOn) {hideMap();if(a){a.innerHTML='Show Map';}}
+else {loadMap();if(a){a.innerHTML='Hide Map'; }}
+return false;
+}
+
+function hideMap(){ctl('map_canvas').style.display = 'none';isMapOn=false;}
+
+function showMap(){ctl('map_canvas').style.display = '';isMapOn=true;var a=ctl('mapSwitch');if(a){a.innerHTML='Hide Map';}}
+
+function loadMap() {
+showMap();
+if (!map) {
+	var myOptions = {
+		navigationControl: true,
+		mapTypeControl: false,
+		scaleControl: false,
+		zoom: 4,
+		mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+	map = new google.maps.Map(ctl('map_canvas'), myOptions);
+	placeMarkers();
+}
+}
+
+function createTinyMarker(latlng, baloonHtml) {
+var image = new google.maps.MarkerImage('http://labs.google.com/ridefinder/images/mm_20_red.png',
+	new google.maps.Size(12, 20),
+	new google.maps.Point(0, 0),
+	new google.maps.Point(6, 20));
+var shadow = new google.maps.MarkerImage('http://labs.google.com/ridefinder/images/mm_20_shadow.png',
+	new google.maps.Size(22, 20),
+	new google.maps.Point(0, 0),
+	new google.maps.Point(6, 20));
+var marker = new google.maps.Marker({
+	position: latlng,
+	map: map,
+	shadow: shadow,
+	icon: image,
+	title: ''
+	});
+var infowindow = new google.maps.InfoWindow({
+	content: baloonHtml,
+	size: new google.maps.Size(90, 200)
+});
+
+infoWindows.push(infowindow);
+
+google.maps.event.addListener(marker, 'click', function() {
+	infowindow.open(map,marker);
+	});
+	return marker;
+}
+
+function cookShowArray(linkArr, latlngarr) {
+showArr = new Array();
+count = linkArr.length;
+showArr.length = count;
+for (var i = 0; i < count; i++) {showArr[i] = 1;}
+for (var i = 0; i < count-1; i++) {
+	for (var j = i+1; j < count; j++) {
+		if ((latlngarr[i].lat() == latlngarr[j].lat()) && (latlngarr[i].lng() == latlngarr[j].lng())) {
+			showArr[j] = 0;
+			if (showArr[i]>0) {showArr[i]++;}
+			linkArr[i] = linkArr[i] + linkArr[j];
+			linkArr[j] = '';
+		}
+	}
+}
+return showArr;
+}
+
+function cookSmallLinkArr(count) {
+var linkArr = new Array();
+linkArr.length = count;
+for (var i = 0; i < count; i++) {linkArr[i]=cookSmallLink(i);}
+return linkArr;
+}
+
+function cookBalloonDiv(html) {
+return '<div>' + html + '</div>';
+}
+
+function placeMarkers() {
+markersArray = new Array();
+var marker;
+var lat = getUrlParameter('lat');
+var lng = getUrlParameter('lng');
+var mapCenter = new google.maps.LatLng(lat, lng);
+var arrowExist=false;
+deleteOverlays();
+if (locationExist(lat,lng)) {placeArrow(mapCenter,8); arrowExist=true;}
+else {map.setCenter(new google.maps.LatLng(0,0));map.setZoom(1);}
+latlngarr = cookPointsArray();
+var count = latlngarr.length;
+var linkArr = cookSmallLinkArr(count);
+var locArr = cookLocationsArray();
+var showArr = cookShowArray(linkArr,latlngarr);
+for (var i = 0; i < count; i++) {
+	if (showArr[i]) {
+		if (showArr[i] == 1) {
+			marker = createTinyMarker(latlngarr[i], CombineLocationAndJobInfo(locArr[i],linkArr[i]));
+	}
+	else {
+		marker = createTinyMarker(latlngarr[i], cookBalloonDiv(CombineLocationAndJobInfo(locArr[i],linkArr[i])));
+	}
+	markersArray.push(marker);
+	}
+}
+setCenterAndZoom(latlngarr,arrowExist);
+}
+
+function cookPointsArray() {
+var arr = new Array();
+for(var i=0; i<100; i++) {
+	var h = ctl('p'+i);
+	if(!h) {break;}
+	var latLng=h.value.split(',');
+	arr.push(new google.maps.LatLng(latLng[0],latLng[1]));
+}
+return arr;
+}
+
+function cookLocationsArray() {
+var arr = new Array();
+for(var i=0; i<100; i++) {
+	var h = ctl('il'+i);
+	if(!h){break;}
+	arr.push(h.innerHTML);
+}
+return arr;
+}
+
+function getUrlParameter(name) {
+var regex = new RegExp('[\\?&]'+encodeURIComponent(name)+'=([^&#]*)');
+var results = regex.exec(window.location.href);
+if (results != null) {return decodeURIComponent(results[1]);}
+return '';
+}
+
+function cookSmallLink(num) {
+var jd = ctl('it'+num);
+var jTitle = jd.innerHTML;
+if (jTitle.length > 30) {jTitle=jTitle.substr(0,27)+'...'}
+var jCompany = cookCompanyText(num);
+return '<a style="font-size:small" href="'+jd.href+'">'+jTitle+'</a>'+jCompany+'<p>';
+}
+
+function cookCompanyText(num) {
+var jc = ctl('ic'+num);
+if (!jc) {return '';}
+var jCompany = jc.innerHTML;
+if (jCompany.length > 30) {jCompany=jCompany.substr(0,27)+'...'}
+return '<br><span class="Company" style="font-size:small">'+jCompany+'<span>';
+}
+
+function CombineLocationAndJobInfo(location,jobInfo) {
+return '<div class="Location" style="text-align:center">'+location+'</div>'+jobInfo;
+}
+
+function loadMapAndShowBalloon(num) {
+loadMap();
+showBalloon(num);
+}
+
+function showBalloon(num) {
+var mPoint = latlngarr[num];
+ctl('mapSwitch').focus();
+for (var i = 0; i < markersArray.length; i++) {
+	if ((markersArray[i].position.lat() == mPoint.lat()) && (markersArray[i].position.lng() == mPoint.lng())) {
+		var infowindow = infoWindows[i];
+		infowindow.open(map, markersArray[i]);
+		break;
+	}
+}
+}
+
+function locationExist(lat,lng) {
+if ((isNaN(lat)) || (isNaN(lng))) return false;
+if ((Number(lat) == 0) && (Number(lng) == 0)) return false;
+return true;
+}
+
+function setCenterAndZoom(pointsArr,centerExist) {
+var maxZoom=9;
+var minZoom=1;
+var bounds = new google.maps.LatLngBounds();
+for (var i=0; i<pointsArr.length; i++) {
+	bounds.extend(pointsArr[i]);
+}
+map.fitBounds(bounds);
+var zoom = map.getZoom() - 1;
+if (zoom) {
+	if (zoom > maxZoom) { zoom = maxZoom; }
+	if (zoom < minZoom) { zoom = minZoom; }
+}
+else {
+	zoom = 5;
+}
+map.setZoom(zoom);
+if (!centerExist) { map.setCenter(bounds.getCenter()); }
+}
+//]]>
+</script>
+
+	
+<script type="text/javascript">
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-82n8znjyGxPjY";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-82n8znjyGxPjY" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-82n8znjyGxPjY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+</html>

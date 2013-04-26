@@ -1,0 +1,7 @@
+                              Password recovering
+Your Login: {*username*}
+Your Password: {*password*}
+Login URL: {*login_url_txt*}
+
+Good luck !
+Admin {*site_title*}

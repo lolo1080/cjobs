@@ -1,0 +1,9 @@
+Dear user !
+
+Please confirm signup by folowing this link:
+{*email_confirm_url_txt*}
+ 
+
+Good luck !
+
+Admin  {*site_title*}

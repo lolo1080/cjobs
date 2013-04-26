@@ -1,0 +1,1 @@
+{include file="feeds/feedxml.tpl"}

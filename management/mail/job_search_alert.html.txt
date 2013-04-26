@@ -1,0 +1,7 @@
+      Dear user !
+
+We have some errors during parsing {*feed_title*}. Please, see more info in "Job Search Log".
+Generation time: {*message_time*}
+
+Good luck !
+Admin  {*site_title*}

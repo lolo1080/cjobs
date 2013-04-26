@@ -1,0 +1,96 @@
+<?
+//Settings data for cron functions -->>
+$usa_states = array(
+'AL'=>'ALABAMA',
+'AK'=>'ALASKA',
+'AZ'=>'ARIZONA',
+'AR'=>'ARKANSAS',
+'CA'=>'CALIFORNIA',
+'CO'=>'COLORADO',
+'CT'=>'CONNECTICUT',
+'DC'=>'D.C.',
+'DE'=>'DELAWARE',
+'FL'=>'FLORIDA',
+'GA'=>'GEORGIA',
+'HI'=>'HAWAII',
+'ID'=>'IDAHO',
+'IL'=>'ILLINOIS',
+'IN'=>'INDIANA',
+'IA'=>'IOWA',
+'KS'=>'KANSAS',
+'KY'=>'KENTUCKY',
+'LA'=>'LOUISIANA',
+'ME'=>'MAINE',
+'MD'=>'MARYLAND',
+'MA'=>'MASSACHUSETTS',
+'MI'=>'MICHIGAN',
+'MN'=>'MINNESOTA',
+'MS'=>'MISSISSIPPI',
+'MO'=>'MISSOURI',
+'MT'=>'MONTANA',
+'NE'=>'NEBRASKA',
+'NV'=>'NEVADA',
+'NH'=>'NEW HAMPSHIRE',
+'NJ'=>'NEW JERSEY',
+'NM'=>'NEW MEXICO',
+'NY'=>'NEW YORK',
+'NC'=>'NORTH CAROLINA',
+'ND'=>'NORTH DAKOTA',
+'OH'=>'OHIO',
+'OK'=>'OKLAHOMA',
+'OR'=>'OREGON',
+'PA'=>'PENNSYLVANIA',
+'RI'=>'RHODE ISLAND',
+'SC'=>'SOUTH CAROLINA',
+'SD'=>'SOUTH DAKOTA',
+'TN'=>'TENNESSEE',
+'TX'=>'TEXAS',
+'UT'=>'UTAH',
+'VT'=>'VERMONT',
+'VA'=>'VIRGINIA',
+'WA'=>'WASHINGTON',
+'WV'=>'WEST VIRGINIA',
+'WI'=>'WISCONSIN',
+'WY'=>'WYOMING'
+);
+$canada_provinces = array(
+'AB'=>'ALBERTA',
+'BC'=>'BRITISH COLUMBIA',
+'MB'=>'MANITOBA',
+'NB'=>'NEW BRUNSWICK',
+'NF'=>'NEWFOUNDLAND',
+'NT'=>'NORTHWEST TERRITORIES',
+'NU'=>'NUNAVUT',
+'NS'=>'NOVA SCOTIA',
+'ON'=>'ONTARIO',
+'PE'=>'PRINCE EDWARD ISLAND',
+'QC'=>'QUEBEC',
+'SK'=>'SASKATCHEWAN',
+'YT'=>'YUKON'
+);
+//Settings data for cron functions <<--
+$Cron_text["site_title"]					= "ES Job Search Engine";
+$Cron_text["no_job_description"]	= "Job description available on target site";
+$Cron_text["no_company_name"]			= "Company not defined";
+
+$text_info["p_configuration_fld_title"] = "Job title";
+$text_info["p_configuration_fld_company_name"] = "Company name";
+$text_info["p_configuration_fld_locId"] = "Location";
+$text_info["p_configuration_fld_description"] = "Description";
+$text_info["p_configuration_fld_url"] = "Job URL";
+$text_info["p_configuration_fld_job_type"] = "Job type";
+$text_info["p_configuration_fld_site_type"] = "Site type";
+$text_info["p_configuration_fld_isstaffing_agencies"] = "Staffing agencies";
+$text_info["p_configuration_fld_salary"] = "Salary";
+
+$Error_messages["invalid_url"]					= "Формат <b>URL ресурса</b> не верен.<br />\n";
+$Error_messages["cannot_connect_url"] 	= "Не могу соедениться с сайтом по указанному URL.<br />\n";
+$Error_messages["cannot_parse_url"]			= "Не могу разложить адресс ресурса на части.<br />\n";
+$Error_messages["find_redirect_location"]= "С главной страницы идет редирект (Location) на {*location*}<br />\n";
+$Error_messages["find_redirect_head"]		= "На сайте присутствует редирект в заголовках (head) на страницу: {*url*}<br />\n";
+$Error_messages["no_content-type"]			= "Не удалось найти Content-Type: на сервере<br />\n";
+$Error_messages["not_html_content-type"]= "Невозможно перейти по ссылке с Content-Type: text/html, а в ответе Content-Type: {*content-type*}<br />\n";
+$Error_messages["small_amount_of_added_data"]= "В этот раз было добавлено мало данных. Сейчас: {*data_cnt_now*}. Прошлые разы: {*data_cnt_prev*}<br />\n";
+$Error_messages["not_moved_location"] = "Нет поля Location в ответе, хотя был Moved<br />\n";
+$Error_messages["not_moved"] = "Нет инструкции Moved<br />\n";
+?>

@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /esjobsearchengine/
+RewriteRule ^myjobs/*$ myjobs.php [L]
+RewriteRule ^jobs/*$ search.php [L]
+RewriteRule ^onejob-details/*$ onejob_details.php [L]
+RewriteRule ^job-details/*$ job_details.php [L]
+#RewriteRule ^category/([^/]+)/$ search.php?order-new=1&mode=date&jobs_category=$1&%{QUERY_STRING} [L]
+#RewriteRule ^category/([^/]+)/$ search.php?jobs_category=$1&order-new=1&mode=date&%{QUERY_STRING} [L]
+RewriteRule ^category/([^/]+)/$ search.php?jobs_category=$1&sort_by=date&%{QUERY_STRING} [L]
+RewriteRule ^advertisers/*$ advertisers.php [L]
+RewriteRule ^publishers/*$ publishers.php [L]
+RewriteRule ^browse_jobs/browse_types/*$ browse_jobs.php [L]
+RewriteRule ^browse_jobs/browse_keyword/.+/(.+)/*$ browse_jobs.php?keyword_id=$1 [L]
+RewriteRule ^change-country/*$ select_country.php [L]
+RewriteRule ^change_country/*$ select_country.php [L]
+RewriteRule ^myarea/*$ myarea.php [L]
+</IfModule>

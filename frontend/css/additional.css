@@ -1,0 +1,37 @@
+/* CSS Document */
+.ads_column1 {
+	font-family: Georgia, 'Times New Roman', Times, serif; font-size: 12px;
+}
+.ads_column2 {
+	font-family: Georgia, 'Times New Roman', Times, serif; font-size: 13px;
+}
+.across_web_div {
+	font-size:150%;color:#999;float:left;padding-top:30px;padding-left:50px;
+}
+.sb_td {
+	background-color:#e6e6e6;padding-top:10px;padding-bottom:10px;
+}
+.before_input_text {
+	color:#720000;font-weight:bold;font-size:95%;
+}
+.font_size70 {
+	font-size:70%;
+}
+.width96 {
+	width:96px;
+}
+.main_input {
+	width: 280px; height:18px; background-color: #f9f9f9; border: 1px solid #999999;
+}
+.cat_list {
+	line-height:105%;padding-top:10px;background-color:#f8f8f8;
+}
+.clear_div {
+	clear: both;margin: 5px 10px; border-top: 1px solid #ccc; color: #333;
+}
+.pad_top25 {
+	padding-top:25px;
+}
+.footer_span {
+	font-size:11px;color:#700000;
+}

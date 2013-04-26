@@ -1,0 +1,13 @@
+               Hello, {*member_first_name*}
+ESJobSearchEngine.com({*site_url_txt*}) {*period*} Job Alert
+{*job_keywords*}
+
+Edit job alert({*member_login_url*}) - View jobs: since yesterday({*view_jobs_since_yesterday*}) - for last 7 days({*view_jobs_since_7days*}) - all jobs({*view_jobs_all*})
+
+--------------------------------------------------
+
+{*jobs_list*}
+
+Edit job alert({*member_login_url*}) - View jobs: since yesterday({*view_jobs_since_yesterday*}) - for last 7 days({*view_jobs_since_7days*}) - all jobs({*view_jobs_all*})
+
+ESJobSearchEngine.com({*site_url_txt*}) - your perfect job

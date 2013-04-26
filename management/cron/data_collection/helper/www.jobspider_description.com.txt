@@ -1,0 +1,431 @@
+<SCRIPT LANGUAGE=JavaScript SRC="/job/_ScriptLibrary/pm.js"></SCRIPT>
+<SCRIPT LANGUAGE=JavaScript>thisPage._location = "/job/view-job.asp";</SCRIPT>
+
+<FORM name=thisForm METHOD=post>
+<HTML>
+<HEAD>
+
+<script type="text/javascript">
+<!--
+    function swaptabs(showthis,hidethis) { 
+	var style2 = document.getElementById(showthis).style;style2.display = "block"; 
+	var style3 = document.getElementById(hidethis).style;style3.display ="none"; 
+    }
+
+    function SpamUpdate(TheAction, JobID) { 
+	var rand_no = Math.ceil(1000*Math.random())
+	if(document.images){ 
+		(new Image()).src="/job/Mark-Spam2.asp?JobID="+JobID+"&TheAction="+TheAction+"&rand_no="+rand_no; 
+	} 
+	return true;
+	} 
+//-->
+</script>
+
+
+<title>Federal Tax Manager job new york New York</title>
+<meta name="title"			content="Federal Tax Manager job new york New York">
+<meta name="description"		content="Apply for Accounting Bookkeeping jobs in new york job New York job. Job Description  Business Unit Overview:  Tax provides comprehensive tax services and specialized expertise to businesses, individuals, trusts, estate">
+
+<meta name="keywords"			content="hot job searches,career education,california jobs,job bank,usa jobs,teen jobs,computer jobs,job florida,texas jobs,it work,science jobs,michigan jobs,job site,construction jobs,classified ads,nursing jobs,hotel jobs,accounting jobs,health care jobs,job opening,help wanted,internet jobs,sales jobs,retail jobs,job hunting,finance jobs,job web site,customer service jobs,information technology job,computer career,job search online,project manager jobs,job search web site,technology jobs,it careers,engineering job search,job search career,free job A26searches,it job description,internet job search,nursing job search,computer job listing,sales job site,computer job site,hr job site,find a job on the internet,it job search,internet job postings,find a job online,online job site,job listing web site,online job search engine,resume search engine,online job search site,online job hunting">
+<link rel="stylesheet" type="text/css" href="/job/include/jobsearch.css">
+</HEAD>
+<!-- Apply for Accounting Bookkeeping jobs in new york job New York job. Job Description  Business Unit Overview:  Tax provides comprehensive tax services and specialized expertise to businesses, individuals, trusts, estate --> 
+<BODY BACKGROUND="/job/JobSideBG.gif" TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH="0" MARGINHEIGHT="0">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="238" height="90" bgcolor="#FFFFFF"><a href="/"><img height="51" alt="Federal Tax Manager job new york New York"
+      src="/job/images/JSlogo.gif" width="238" border="0" /></a></td>
+
+      <td align="right" bgcolor="#FFFFFF">
+ 	<script type="text/javascript"><!--
+		google_ad_client = "pub-1662552535203450";
+		/* 728x90, created 2/24/10 */
+		google_ad_slot = "5856352147";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		//-->
+	</script>
+
+	<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" bgcolor="#0066CC" valign="middle" height="20"><a href=
+      "/job/main-overview.asp" class="mainmenu">My Spider</a> <a href="/job/scams.asp"
+      class="mainmenu">Scam Awareness</a> <a href="/job/Contacting_Us.asp" class=
+      "mainmenu">Contacting Us</a> <a href="/job/faq.asp" class="mainmenu">F. A.
+      Q.</a>
+
+	
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" bgcolor="#000000" height="3"></td>
+    </tr>
+  </table>
+
+    <table CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+        <tr VALIGN="TOP" ALIGN="LEFT">
+
+            <td>
+                <table BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="124">
+                    <tr VALIGN="TOP" ALIGN="LEFT">
+                        <td HEIGHT="34"></td>
+                    </tr>
+                    <tr VALIGN="TOP" ALIGN="LEFT">
+                        <td>
+ 
+                            <table ID="Table1" BORDER="0" CELLSPACING="3" CELLPADDING="1" WIDTH="100%">
+                                <tr>
+
+                                    <td>
+                                        <CENTER>&nbsp;</CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><SPAN class="BoldTxt"><font COLOR="#FFFFCC" SIZE="-1" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Job Seekers</font></SPAN></CENTER>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/job-search.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Search Jobs</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+
+                                        <CENTER><a HREF="/job/browse-jobs.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Browse Jobs</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/PostResume1.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Post a Resume</font></a></CENTER>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/job-alert.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Job Alerts</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER>&nbsp;</CENTER>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><SPAN class="BoldTxt"><font COLOR="#FFFFCC" SIZE="-1" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Employers</font></SPAN></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td>
+                                        <CENTER><a HREF="/job/resume-search.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Search Resumes</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/browse-resumes.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Browse Resumes</font></a></CENTER>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/PostJob1.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Post a Job</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+
+                                        <CENTER>&nbsp;</CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><SPAN class="BoldTxt"><font COLOR="#FFFFCC" SIZE="-1" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Resources</font></SPAN></CENTER>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/directory/employment-resources.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Employment Directory</font></a></CENTER>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <CENTER><a HREF="/job/job-links.asp" class="BoldTxt"><font COLOR="#FFFFFF" SIZE="-2" FACE="Verdana,Tahoma,Arial,Helvetica,sans-serif">Links</font></a></CENTER>
+
+                                    </td>
+                                </tr>
+                               
+                            </table>
+<br>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-1662552535203450";
+/* 120x90, created 2/25/10 */
+google_ad_slot = "7392564278";
+google_ad_width = 120;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+            <td WIDTH="100%">
+
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top" align="left">
+        <td height="18">
+        </td>
+      </tr>
+
+      <tr valign="top" align="left">
+        <td>
+          <table id="Table3" border="0" cellspacing="0" cellpadding="1" width="95%"
+          align="center" bordercolor="black">
+            <tr>
+              <td BGCOLOR="#4C4C4C">
+                <h1>Federal Tax Manager Job</h1>
+              </td>
+            </tr>
+
+          </table>
+
+          <table width="95%" border="0" align="center">
+            <tr>
+              <td>
+                <center>
+
+
+<hr style="color:#000;background-color:#000;" />
+	<div id="SpamMark" style="display:none;">
+          <table width="510" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+              <td width="50"><img src="/job/images/information_spam.gif" border="0" alt=
+              "Please help me clean this site" /></td>
+
+              <td valign="middle" style="font-family:verdana; font-size:11px">
+			If this is a scam, MLM, or Home Based "Opportunity" then <a rel="nofollow" href="#" onclick="SpamUpdate(1, 3135782);swaptabs('SpamThanks','SpamMark');return false;">Mark as SPAM</a>
+	      </td>
+            </tr>
+          </table>
+
+        </div>
+	<div id="SpamThanks" style="display:none;">
+          <table width="510" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="50"><img src="/job/images/spam.gif" border="0" alt=
+              "Please help me clean this site" /></td>
+
+              <td valign="middle" style="font-family:verdana; font-size:11px">
+			&nbsp;Thank you for helping! This job will be reviewed by us shortly.&nbsp;<a href="#" rel="nofollow" onclick="SpamUpdate(2, 3135782);swaptabs('SpamMark','SpamThanks');return false;">Undo</a>
+
+	      </td>
+            </tr>
+          </table>
+	</div>
+<hr style="color:#000;background-color:#000;" />
+
+<script type="text/javascript">
+<!--
+    swaptabs('SpamMark','SpamThanks'); 
+//-->
+</script>
+
+<TABLE WIDTH=100% BORDER=0 CELLSPACING=1 CELLPADDING=1>
+	<TR>
+		<TD>
+
+		<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>
+			<TR>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Employer Name: confidential</FONT></TD>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">SpiderID: 3135782</FONT></TD>
+			</TR>
+			<TR>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Location: new york, New York</FONT></TD>
+
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Date Posted: 5/30/2011</FONT></TD>
+			</TR>
+			<TR>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Wage: great comp</FONT></TD>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Category: Accounting/Bookkeeping</FONT></TD>
+			</TR>
+			<TR>
+
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Job Code: </FONT></TD>
+				<TD></TD>
+			</TR>
+
+			<TR>
+				<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Number Of Openings: 1</FONT></TD>
+				<TD></TD>
+			</TR>
+
+		</TABLE>
+
+		<BR>
+		<FONT FACE="verdana, arial, geneva, sans-serif" SIZE="2" COLOR="#000f99"><b>Job Description:</b><BR><FONT COLOR="#000000">Job Description<BR><BR>Business Unit Overview:<BR><BR>Tax provides comprehensive tax services and specialized expertise to businesses, individuals, trusts, estates, non-profit and governmental entities and associations.  Comprehensive services include compliance (preparation), planning and consulting and various outsourcing projects. <BR><BR>Tax serves clients in all fields, with particular emphasis in manufacturing, financial institutions, distribution, agribusiness, construction, healthcare, exempt organizations and private equity<BR><BR>The Tax Manager/Senior Manager is responsible for the delivery of a full range of tax services for high net worth clients.<BR><BR>Responsibilities include interacting closely with clients to provide tax planning, consulting, and compliance expertise; providing primary and secondary review of complex high net worth tax returns; developing and managing staff; working closely with partners and staff on client management, practice development, and business development activities<BR><BR>Essential Duties and Responsibilities:<BR><BR>Manage plan, execute, direct, and complete; tax projects for multiple client engagements in a wide variety industries; provide tax planning, consulting, and compliance expertise to clients and manage to budget.<BR><BR>Manage, develop, train, and mentor staff on tax projects.<BR><BR>Conduct primary and secondary review of complex individual income tax returns.<BR><BR>Maintain active communication with clients to manage expectations, ensure satisfaction, and make sure deadlines are met.<BR><BR>Consult, work with, and service client to make planning recommendations as a key advisor to client.<BR><BR>Requirements<BR><BR>Bachelor’s degree in Accounting. <BR>CPA, Masters in Taxation, LLM in Taxation, or JD.<BR>Eight years of progressive federal tax consulting and/or compliance experience in public accounting<BR>Experience in Individual returns<BR>Ability to research complex tax issues.<BR>Exceptional client service and communication skills with a demonstrated ability to develop and maintain outstanding client relationships.<BR><BR>Strong leadership, business development, recruiting, training, coaching, and mentoring skills, coupled with excellent written, interpersonal, and presentation skills.<BR><BR>Computer expertise including knowledge of tax software, research and technology.<BR><BR> If interested please contact odesseya at bestjobrecruitingos@gmail.com</FONT></FONT>
+
+
+		<BR><BR>
+		<FONT FACE="verdana, arial, geneva, sans-serif" SIZE="2" COLOR="#000f99"><b>Job Criteria:</b></FONT>
+		<BR><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Start Date: open
+		<BR>Position Type: Full-Time Permanent
+		<BR>Years of Experience Required: 8
+		<BR>Education Required: Masters
+		<BR>Overnight Travel: 		
+		<BR>Vacation Time: 
+		</FONT>
+
+		<BR><BR>
+
+		<FONT FACE="verdana, arial, geneva, sans-serif" SIZE="2" COLOR="#000f99"><b>Contact Information:</b></FONT>
+
+<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR>
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Contact Name: Odesseya Smith</FONT></TD>
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Company Type: Recruiter</FONT></TD>
+	</TR>
+	<TR>
+
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Company: confidential</FONT></TD>
+		<TD></TD>
+	</TR>
+	<TR>
+		<TD></TD>
+		<TD></TD>
+	</TR>
+	<TR>
+
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">City: Frederiksted</FONT></TD>
+		<TD></TD>
+	</TR>
+	<TR>
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">State: Florida</FONT></TD>
+		<TD></TD>
+	</TR>
+	<TR>
+
+		<TD><FONT FACE="verdana, arial, geneva, sans-serif" SIZE="1" COLOR="#000000">Zip: 00840</FONT></TD>
+		<TD></TD>
+	</TR>
+</TABLE>
+		
+		</TD>
+	</TR>
+</TABLE>
+
+<BR>        
+<table width="100%" border=0 cellspacing="0" cellpadding="2">
+<tr>
+
+<td align=left>
+	<A HREF="#" onclick="window.open('/job/extras/email-to-friend.asp?ad=3135782', 'windowName', 'resizable=no,toolbar=no,scrollbars=no,height=580,width=620');return false;"><IMG src="/job/images/email_friend.gif" width="160" height="13" border="0" alt="Send ad to a friend" /></A>
+</td>
+</tr>
+<tr><td align=left>
+	<A HREF="#" onclick="window.open('/job/extras/email-to-us.asp?ad=3135782', 'windowName', 'resizable=no,toolbar=no,scrollbars=no,height=450,width=620');return false;"><IMG src="/job/images/email_problem.gif" width="160" height="13" border="0" alt="Report a Problem" /></A>
+</td></tr>
+</table>
+
+<BR><BR>
+<input type=button value="<< Go Back " onClick="history.go(-1)" id=button2 name=button2>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<INPUT type=button name="Button1" id="Button1" value="Apply for Job" onclick="thisPage._fireEvent('Button1','onclick'); return false;">
+
+<input type=hidden name=JobID value='3135782'>
+				            </center>
+				          </td>
+				        </tr>
+				      </table>
+				    </td>
+				  </tr>
+				</table>
+             </TD>
+
+            <TD>
+			<IMG SRC="/job/images/clearpixel.gif" WIDTH=160 HEIGHT=18 BORDER=0>
+
+
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-1662552535203450";
+google_alternate_color = "FFFFFF";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "336699";
+google_color_url = "336699";
+google_color_text = "000000";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	          
+<BR><BR>
+<center>
+
+</center>
+          </TD>
+
+        </TR>
+    </TABLE>
+<BR>
+<BR>
+<BR>
+<TABLE width='100%' BORDER=0 align=center>
+	<TR>
+		<TD>
+		<center> 
+		<font face=arial size=1 color='#6F6F6F'> &copy; 2011 Job Spider<BR></font>
+
+		<font face=arial size=1 color='#6F6F6F'><a href="/job/privacy-policy.asp">Privacy Policy</a> | <a href="/job/cc-marketing-sites.asp">CC Marketing Sites</a> | <a href="/job/site-map.asp">Site Map</a><BR></font>
+		<BR>
+		<iframe src="http://www.facebook.com/plugins/likebox.php?id=196415831442&amp;width=600&amp;connections=10&amp;stream=false&amp;header=true&amp;height=210" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:210px;" allowTransparency="true"></iframe>
+
+		</center>
+
+       </TD>
+    </TR>
+</TABLE>
+<BR>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11167823-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</BODY>
+
+<INPUT type=hidden name="_method">
+<INPUT type=hidden name="_Button1_state" value="value=Apply%20for%20Job">
+<INPUT type=hidden name="_thisPage_state" value="">
+
+</FORM>
+
+</HTML>

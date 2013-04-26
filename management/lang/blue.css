@@ -1,0 +1,78 @@
+body {
+font-family: arial; font-size: 12px; scrollbar-3dlight-color: #CCCCFF; 
+scrollbar-darkshadow-color: #CCCCFF; scrollbar-base-color: #CCCCFF; 
+scrollbar-track-color: #CCCCFF; scrollbar-face-color: #6F6FCB; 
+scrollbar-arrow-color: #ffffff; scrollbar-highlight-color: #ffffff; 
+scrollbar-shadow-color: #ffffff;
+}
+.tblcaption {
+color: #ffffff;
+background-color: #6f6fcb;
+font-family: verdana;
+font-weight: bold;
+font-size: 10px;
+}
+.tbldark {
+color: #00004f;
+background-color: #ffffff;
+font-family: arial;
+font-size: 12px;
+}
+.filter_checkbox {
+border-right:  #ffffff 1px solid;
+border-top:    #999999 1px solid;
+border-left:   #999999 1px solid;
+border-bottom: #ffffff 1px solid;
+background-color: #e4e0d8;
+font-family: arial;
+font-size:8pt;
+width: 15px 
+}
+.filter_text {
+border-right:  #ffffff 1px solid;
+border-top:    #999999 1px solid;
+border-left:   #999999 1px solid;
+border-bottom: #ffffff 1px solid;
+background-color: #e4e0d8;
+font-family: arial;
+font-size:10pt;
+width: 54px 
+}
+.filter_digit {
+border-right:  #ffffff 1px solid;
+border-top:    #999999 1px solid;
+border-left:   #999999 1px solid;
+border-bottom: #ffffff 1px solid;
+background-color: #e4e0d8;
+font-family: arial;
+font-size:10pt;
+width: 25px 
+}
+.filter_select_text {
+border-style: none;
+font-size:8pt;
+font-family: arial;
+background-color: #e4e0d8;
+width: 68px 
+}
+.filter_select_digit {
+border-style: none;
+font-size:8pt;
+font-family: arial;
+background-color: #e4e0d8;
+width: 35px
+}
+.filter {
+border-right:  #ffffff 1px solid;
+border-top:    #999999 1px solid;
+border-left:   #999999 1px solid;
+border-bottom: #ffffff 1px solid;
+background-color: #e4e0d8;
+font-family: arial;
+}
+.filterbutton {
+font-family: arial;
+font-size:8pt;
+background-color: #e4e0d8;
+width: 29px
+}

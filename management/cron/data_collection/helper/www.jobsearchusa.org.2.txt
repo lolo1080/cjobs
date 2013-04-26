@@ -1,0 +1,1080 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" charset="utf-8">
+ google.load('ads.search', '2');
+</script>
+
+
+
+
+
+<META NAME="robots" CONTENT="noindex,nofollow">
+
+ 
+
+<title>Accounting job search | Jobsearchusa.org 10</title>
+<meta http-equiv="description" content="Search  Accounting job search openings and listings from around the United States. Job seekers may choose to search and apply for jobs in Accounting by city or state. This section provides additional employment search results.">
+<meta http-equiv="keywords" content="Accounting jobs job search">
+<base href="http://www.jobsearchusa.org/">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="Shortcut Icon" href="http://www.jobsearchusa.org/favicon.ico" type="image/x-icon" /> 
+
+<link rel="alternate" type="application/rss+xml" title="Accounting RSS Job Listings " href="http://www.jobsearchusa.org/rss/accounting-auditing/all/" />
+
+<script type="text/javascript" src="http://www.jobsearchusa.org/javacombined.js.php"></script>
+
+
+<script type="text/javascript">
+function validate_search_form()
+{
+	valid = true;
+	if (document.getElementById('State').selectedIndex == 0 && document.getElementById('City').selectedIndex == 0 && document.getElementById('CareerType').selectedIndex == 0 && document.getElementById('keywords').value == "") {
+		alert("Please select at least one category.");
+		valid = false;
+	}
+	return valid;
+
+}
+</script>
+
+	<script type="text/javascript">
+		function validate_search_form1() {
+			valid = true;
+			if (document.getElementById('State').selectedIndex == 0) {
+				alert("Please select a state.");
+				valid = false;
+			}
+			return valid;
+		}
+	</script>
+
+
+<link rel="StyleSheet" type="text/css" href="mainb.css.php">
+<link rel="StyleSheet" type="text/css" href="newmain2.css.php">
+<link rel="StyleSheet" type="text/css" href="testing.css.php">
+ <style>
+	body{font-family:arial}
+  .ad_header {color:#215670;font-weight:bold;padding-bottom:7px;font-size:13px}
+	.ad_hg {color:#000000;padding-bottom:7px;font-size:13px}
+  .ad_line1 {color:#215670;font-weight:bold;font-size:15px; text-decoration:underline}
+  .ad_text {color:#000000;font-size:13px; text-decoration:none}
+  .ad_url {color:#000000;font-weight:bold;font-size:12px;margin-bottom:12px; text-decoration:none}
+  .search_header{background:#eee;padding:4px;font-size:15px;font-weight:bold}
+  .wide_ads {background:#FFFFFF; padding:10px}
+  .narrow_ads {background:#FFFFFF; padding:10px}
+  .bottom_ads {background:#FFFFFF; padding:10px}
+  .top_ads {background:#FFFFFF; padding:10px}
+</style>
+<script type="text/javascript" src="/includes-search/scripts/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.rmv-dft-val').click(
+		function() {
+			if (this.value == this.defaultValue) {
+				this.value = '';
+			}
+		}
+	);
+	$('.rmv-dft-val').blur(
+		function() {
+			if (this.value == '') {
+				this.value = this.defaultValue;
+			}
+		}
+	);
+});
+
+function validate_required(field,alerttxt) {
+  with (field) {
+    if (value==null||value==""||value==""||value=="") {
+      alert(alerttxt);return false;
+    }
+    else {
+      return true;
+    }
+  }
+}
+function validate_form(thisform) {
+  with (thisform) {
+    if(validate_required(keyword,"You need to enter a Keyword and Location")==false){
+      keyword.value='';
+      keyword.focus();
+  	  return false;
+  	}
+    if(validate_required(location,"You need to enter a Keyword and Location")==false){
+      location.value='';
+      location.focus();
+  	  return false;
+  	}
+  }
+}
+</script>
+
+</head>
+
+<body>
+
+<div id= "container">
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td>
+		  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="31%" rowspan="2">
+		        <div align="center" style="margin:10px;">
+
+  			      <a href="http://www.jobsearchusa.org"><img src="http://www.jobsearchusa.org/images/job_search_usa.jpg" alt="Job Search USA Logo" width="240" height="57" border="0"></a>			      </div>
+		      </td>
+          <td valign="bottom">
+		        <table width="96%"  border="0" cellspacing="0" cellpadding="7">
+		          <tr>
+		        	  <td align="right">
+		                 
+                
+ 
+
+		            </td>
+
+		          </tr>
+
+		        </table>
+		      </td>
+		    </tr>
+		    <tr>
+		  	  <td width="59%" valign="bottom">
+		        <table  border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="25">&nbsp;</td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+
+
+
+<tr>
+	
+	
+ 	  <td class="underbar" align="center" style="padding:0px;margin:0px;font-size:14px;">
+ 	    <form action="/searchindex.php" method="get" onSubmit="return validate_search_form1();" style="margin-bottom:15px;padding:0px;">
+<input type="hidden" name="action" value="search">
+ 	    
+ 	    <span style="color:#FFFFFF;font-size:14px;"><b>Job/Keyword</b></span> &nbsp;&nbsp;
+
+ <input name="2" type="text" class="keywordtf" id="2" value="" size="30">								
+		
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ 	    <span style="color:#FFFFFF;font-size:14px;"><b>Location:</b></span> &nbsp;
+
+<select name="92" class="searchboxselect" id="State" onchange="get_cities(this);">
+                    <option value="all" selected>[ Select ]</option>
+                    <option value="all">Select All</option>
+<option value="188">Alabama</option>
+<option value="189">Alaska</option>
+<option value="190">Arizona</option>
+<option value="191">Arkansas</option>
+<option value="192">California</option>
+
+<option value="193">Colorado</option>
+<option value="194">Connecticut</option>
+<option value="195">Delaware</option>
+<option value="196">District of Columbia</option>
+<option value="197">Florida</option>
+<option value="198">Georgia</option>
+<option value="199">Hawaii</option>
+<option value="200">Idaho</option>
+<option value="201">Illinois</option>
+
+<option value="202">Indiana</option>
+<option value="203">Iowa</option>
+<option value="204">Kansas</option>
+<option value="205">Kentucky</option>
+<option value="206">Louisiana</option>
+<option value="207">Maine</option>
+<option value="208">Maryland</option>
+<option value="209">Massachusetts</option>
+<option value="210">Michigan</option>
+
+<option value="211">Minnesota</option>
+<option value="212">Mississippi</option>
+<option value="213">Missouri</option>
+<option value="214">Montana</option>
+<option value="215">Nebraska</option>
+<option value="216">Nevada</option>
+<option value="217">New Hampshire</option>
+<option value="218">New Jersey</option>
+<option value="219">New Mexico</option>
+
+<option value="220">New York</option>
+<option value="221">North Carolina</option>
+<option value="222">North Dakota</option>
+<option value="223">Ohio</option>
+<option value="224">Oklahoma</option>
+<option value="225">Oregon</option>
+<option value="226">Pennsylvania</option>
+<option value="227">Rhode Island</option>
+<option value="228">South Carolina</option>
+
+<option value="229">South Dakota</option>
+<option value="230">Tennessee</option>
+<option value="231">Texas</option>
+<option value="232">Utah</option>
+<option value="233">Vermont</option>
+<option value="234">Virginia</option>
+<option value="235">Washington</option>
+<option value="236">West Virginia</option>
+<option value="237">Wisconsin</option>
+
+<option value="238">Wyoming</option>
+                  </select>
+
+ &nbsp;
+ 	    <input type="submit" value="Find Jobs!" name="search" style="margin:0px;padding:0px;font-size:15px;" />
+ 	    </form>
+ 	  </td>
+ 	</tr>
+ 	<tr>
+
+ 		<td align="center">
+		<div id="contentcontainer">		<!-------- end of header  ------------>
+<h1 class="headingstate">Search <b>Accounting Jobs</b></h1>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top"><div>
+        <table width="355" border="0" cellpadding="0" cellspacing="0">
+                  </table>
+
+      </div></td>
+    <td width="45%" valign="top"><div>
+      </div></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="72%" valign="top"><div style="text-align: right;"> </div>
+      <br />
+
+<div id="adblock1"></div>
+            <br>
+
+
+
+
+
+	
+				1003 Jobs listings
+in Accounting Auditing found
+
+
+
+			
+
+					
+	<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="100%" valign="top">
+			
+			<table id="joblist" align="left" border="0" cellSpacing="1" cellPadding="5" class="list">
+
+                <tr>
+                <tr>
+                            
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552154" target="_blank">AVP Reporting Actuary, Global Life NA</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+
+Zurich NA	
+	</span> | 
+	<b>
+	, New York </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Leads an actuarial staff responsible for profitability analysis, product management and reserving activities. Activities include interpreting data, collaborating with other functions, making complex analyses and providing recommendations and forecas
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552157" target="_blank">Regulatory Services Analyst I - Accident &amp; Health</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+
+	Schaumburg, Illinois </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Supports the speed to market and product implementation of new accident and health product maintenance. Primary duties include: submission of accident and health filings to state insurance departments, coordinating and submitting responses to state 
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Regulatory</span> 
+                       </td>
+
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+
+			<a href="job.php?id=100552158" target="_blank">Payroll Reconciliation Specialist</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+	Schaumburg, Illinois </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Zurich in North America is a part of Zurich Financial Services Group (Zurich), an insurance-based financial services provider with a global network of subsidiaries and offices in North America and Europe as well as in Asia Pacific, Latin America and
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Payroll</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552183" target="_blank">Actuary</a>
+
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+	Schaumburg, Illinois </b>
+
+     <br>
+      <span class="job_list_small_print">
+
+       Candidate will participate in the pricing of large property accounts. Responsibilities include: * Development of pricing tools including updating of current tools, innovative enhancements, and support of IT. * Review pricing of large accounts. This 
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552187" target="_blank">Field Actuary</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+
+Zurich NA	
+	</span> | 
+	<b>
+	, New York </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Highest level of technical actuarial specialization and expertise. Takes a lead role in property and casualty pricing for their assigned office(s), may lead or participate in pricing projects. Prices accounts, performs risk transfer analysis, review
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552190" target="_blank">AVP, Life Pricing Actuary</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+
+	, New York </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Leads an actuarial staff responsible for pricing, product development or research, profitability analysis or reserving activities. Activities include interpreting data, collaborating with other functions, making complex analyses and providing recomm
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+
+			<a href="job.php?id=100552191" target="_blank">Intern - Accounting</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+	, New York </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Intern will be working in the Accounting department in Global Life. Under immediate supervision performs requested tasks alongside professionals who perform these roles. Primary Projects: ?Accounts Payable ?Bank Reconciliations ?Journal Entries ?Pla
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Accounting</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552194" target="_blank">Accounting Manager II</a>
+
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+	New York City, New York </b>
+
+     <br>
+      <span class="job_list_small_print">
+
+       Assist in the preparation of timely and accurate submissions of Global Life non core financial reporting (run-off business) to Zurich Corporate Center and Global Life Senior Management including but not limited to: Monthly Forecast & Flash (soon to 
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Accounting</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552061" target="_blank">Actuarial Analyst - Predictive Modeling</a>
+			</strong>
+			</span> 
+			<br>
+
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+	Schaumburg, Illinois </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Work with a growing and leading Predictive Modeling team at one of the largest national commercial insurers. Using predictive analytics, we support key strategic business decisions throughout the entire organization. Responsibilities would include w
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+
+                
+                              
+					
+      <td class="list_data_cell">
+						
+						<span class="job_list_title" ><strong>
+			<a href="job.php?id=100552068" target="_blank">Actuarial Analyst - Predictive Modeler</a>
+			</strong>
+			</span> 
+			<br>
+<span class="dullbluetext"> 
+	 
+Zurich NA	
+	</span> | 
+	<b>
+
+	Schaumburg, Illinois </b>
+
+     <br>
+      <span class="job_list_small_print">
+       Work with a leading Predictive Modeling team at one of the largest national commercial insurers. Using predictive analytics we support key strategic business decisions throughout the entire organization. Responsibilities would include working with l
+
+              </span>
+              	<br><br>
+
+<span class="category_jobpost">Category: Accounting-Auditing > Actuarial</span> 
+                       </td>
+
+					
+					
+			<!-- second column -->
+			<td width="15%" valign="top" align="right" class="list_data_cell" >
+
+
+<span class='updated_datepost'>
+		Updated May-30-2011</span>
+		 			      </td>
+					
+					
+
+                  </tr>
+        			
+      </table>
+			
+			<br>
+
+			
+			
+			</td>
+		</tr>
+	</table>
+	
+
+				<br>
+  <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/">1</a>  <span style="color: #ee6e0d">2</span>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/20">3</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/30">4</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/40">5</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/50">6</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/60">7</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/70">8</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/80">9</a>  | <a class="testbluelink" href="http://www.jobsearchusa.org/jobs/accounting-auditing/all/n/90">10</a>     	
+	      </td>
+
+    <td width="28%" valign="top">
+<p align="center">
+<p align="left">
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Job-Search-USA/150634478306869" width="225" show_faces="false" stream="false" header="false"></fb:like-box>
+</p>
+
+</p>
+
+      <div style="margin-left: 25px; line-height:normal; border: 1px solid #f6801e; padding: 12px;">
+      
+      <strong><span style="color: #ee6e0d">Search Accounting job listings and jobsearch by career</span></strong><br /><br>        <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/accountant">Accountant</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/accounting">Accounting</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/analyst">Analyst</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/auditing">Auditing</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/tax">Tax</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/financial-reporting">Financial Reporting</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/accounts-receivable">Accounts Receivable</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/payroll">Payroll</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/accounts-payable">Accounts Payable</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/actuarial">Actuarial</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/economist">Economist</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/accounting-auditing/regulatory">Regulatory</a><br />
+                <br>
+
+        <strong><span style="color: #ee6e0d">Browse Accounting job listings by state</span></strong><br /><br>        <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/alabama/accounting-auditing/all">Alabama</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/arizona/accounting-auditing/all">Arizona</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/california/accounting-auditing/all">California</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/colorado/accounting-auditing/all">Colorado</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/florida/accounting-auditing/all">Florida</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/georgia/accounting-auditing/all">Georgia</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/illinois/accounting-auditing/all">Illinois</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/indiana/accounting-auditing/all">Indiana</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/kentucky/accounting-auditing/all">Kentucky</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/louisiana/accounting-auditing/all">Louisiana</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/maryland/accounting-auditing/all">Maryland</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/massachusetts/accounting-auditing/all">Massachusetts</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/michigan/accounting-auditing/all">Michigan</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/minnesota/accounting-auditing/all">Minnesota</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/missouri/accounting-auditing/all">Missouri</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/new-jersey/accounting-auditing/all">New Jersey</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/new-york/accounting-auditing/all">New York</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/north-carolina/accounting-auditing/all">North Carolina</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/ohio/accounting-auditing/all">Ohio</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/pennsylvania/accounting-auditing/all">Pennsylvania</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/south-carolina/accounting-auditing/all">South Carolina</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/tennessee/accounting-auditing/all">Tennessee</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/texas/accounting-auditing/all">Texas</a><br />
+
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/virginia/accounting-auditing/all">Virginia</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/washington/accounting-auditing/all">Washington</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a class="testblue" href="http://www.jobsearchusa.org/jobs/wisconsin/accounting-auditing/all">Wisconsin</a><br />
+                <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<strong><a href="http://www.jobsearchusa.org/states/accounting-auditing/">More States</a></strong><br />
+        <br><br><br><strong><span style="color: #ee6e0d">Consider other Categories and Locations</span></strong><br /><br>        <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a href="http://www.jobsearchusa.org/category/">Search by Category</a> <br>
+
+        <img src="http://www.jobsearchusa.org/images/n-arrow.gif" />&nbsp;&nbsp;<a href="http://www.jobsearchusa.org/location/">Search by Location</a><br>
+        <br>
+
+
+      </div>
+      
+
+</td>
+  </tr>
+
+</table>
+
+
+<table width="100%" border="0" cellpadding="2" cellspacing="0">
+
+		<td width="60%" valign="top">
+
+      <br />
+<div id="adblock2"></div>
+  
+</td>
+
+<td width="40%" valign="top">
+
+	
+
+</td>
+
+</table>
+
+<script type="text/javascript" charset="utf-8">
+var pageOptions = {
+ 'pubId' : 'pub-5449261540398693',
+ 'query' : 'Accounting+jobs',
+ 'channel' : '8912909045'
+
+};
+
+var adblock1 = {
+ 'container' : 'adblock1',
+ 'number' : 4,
+ 'width' : 'auto',
+ 'lines' : 2,
+ 'fontFamily' : 'arial',
+ 'fontSizeTitle' : '16px',
+ 'fontSizeDescription' : '13px',
+ 'fontSizeDomainLink' : '12px',
+'colorTitleLink' : '#215670',
+'colorText' : '#000000',
+'colorDomainLink' : '#000000'
+};
+
+var adblock2 = {
+ 'container' : 'adblock2',
+ 'number' : 4,
+ 'width' : 'auto',
+ 'lines' : 2,
+ 'fontFamily' : 'arial',
+ 'fontSizeTitle' : '16px',
+ 'fontSizeDescription' : '13px',
+ 'fontSizeDomainLink' : '12px',
+'colorTitleLink' : '#215670',
+'colorText' : '#000000',
+'colorDomainLink' : '#000000'
+};
+
+new google.ads.search.Ads(pageOptions, adblock1, adblock2);
+</script>
+
+
+    <div class="catbox" style="height: 220px; padding: 10px; margin: 20px; text-align:left">
+      <table width="100%" border="0" cellpadding="4">
+        <tr>
+          <td width="26%" valign="top"><form  action="/searchindex.php" method="get" style="margin: 0">
+              <input type="hidden" name="action" value="search">
+              <table width="355" border="0" cellpadding="2" cellspacing="0">
+
+                <tr>
+                  <td colspan="2" style="padding-bottom:2px;"><h4>Advanced Search</h4></td>
+                </tr>
+                <tr>
+                  <td style="padding-bottom:2px;">Step 1 - Select a State</td>
+                  <td style="padding-left:5px; padding-bottom:2px;"><select id="State" class="searchboxselect" name="92" onchange="get_cities(this);">
+                      <option value="">[ Select ]</option>
+
+                      <option value="all" SELECTED>Select All</option>
+<option value="188">Alabama</option>
+<option value="189">Alaska</option>
+<option value="190">Arizona</option>
+<option value="191">Arkansas</option>
+<option value="192">California</option>
+<option value="193">Colorado</option>
+<option value="194">Connecticut</option>
+
+<option value="195">Delaware</option>
+<option value="196">District of Columbia</option>
+<option value="197">Florida</option>
+<option value="198">Georgia</option>
+<option value="199">Hawaii</option>
+<option value="200">Idaho</option>
+<option value="201">Illinois</option>
+<option value="202">Indiana</option>
+<option value="203">Iowa</option>
+
+<option value="204">Kansas</option>
+<option value="205">Kentucky</option>
+<option value="206">Louisiana</option>
+<option value="207">Maine</option>
+<option value="208">Maryland</option>
+<option value="209">Massachusetts</option>
+<option value="210">Michigan</option>
+<option value="211">Minnesota</option>
+<option value="212">Mississippi</option>
+
+<option value="213">Missouri</option>
+<option value="214">Montana</option>
+<option value="215">Nebraska</option>
+<option value="216">Nevada</option>
+<option value="217">New Hampshire</option>
+<option value="218">New Jersey</option>
+<option value="219">New Mexico</option>
+<option value="220">New York</option>
+<option value="221">North Carolina</option>
+
+<option value="222">North Dakota</option>
+<option value="223">Ohio</option>
+<option value="224">Oklahoma</option>
+<option value="225">Oregon</option>
+<option value="226">Pennsylvania</option>
+<option value="227">Rhode Island</option>
+<option value="228">South Carolina</option>
+<option value="229">South Dakota</option>
+<option value="230">Tennessee</option>
+
+<option value="231">Texas</option>
+<option value="232">Utah</option>
+<option value="233">Vermont</option>
+<option value="234">Virginia</option>
+<option value="235">Washington</option>
+<option value="236">West Virginia</option>
+<option value="237">Wisconsin</option>
+<option value="238">Wyoming</option>
+                    </select></td>
+
+                </tr>
+                <tr>
+                  <td style="padding-bottom:2px;">Step 2 - Select a City</td>
+                  <td style="padding-left:5px; padding-bottom:2px;"><select id="City"  class="searchboxselect" name="93">
+                      <option value="">[ Select ]</option>
+                      <br />
+<b>Warning</b>:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in <b>/usr/home/unixlcom/domains/jobsearchusa.org/public_html/index.php</b> on line <b>2873</b><br />
+
+<br />
+<b>Warning</b>:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in <b>/usr/home/unixlcom/domains/jobsearchusa.org/public_html/index.php</b> on line <b>2879</b><br />
+                    </select></td>
+                </tr>
+                <tr>
+                  <td style="padding-bottom:2px;">Step 3 - Select an Industry</td>
+
+                  <td style="padding-left:5px; padding-bottom:2px;">
+
+<select id="Career Type"   class="searchboxselect" name="6" onChange="get_classifieds(this);">
+                      <option value="">[ Select ]</option>
+                      <option value="all">Select All</option>
+<option value="1222" SELECTED>Accounting-Auditing</option>
+<option value="1225">Admin-Customer Service</option>
+<option value="1246">Construction</option>
+<option value="1254">Education</option>
+
+<option value="1334">Entry-Level-Internships</option>
+<option value="1483">Executive-Management</option>
+<option value="1266">Financial Services</option>
+<option value="1273">Government</option>
+<option value="1280">Health-Medical</option>
+<option value="1282">Hospitality-Tourism</option>
+<option value="1286">Human Resources</option>
+<option value="1287">Information Technology</option>
+<option value="1295">Legal</option>
+
+<option value="1301">Manufacturing-Transport</option>
+<option value="1302">Marketing-Media-Entertainment</option>
+<option value="1303">Math-Engineering</option>
+<option value="1415">Nonprofit-Community</option>
+<option value="1331">Sales-Retail</option>
+<option value="1332">Science</option>
+                    </select>
+</td>
+                </tr>
+
+                <tr>
+                  <td style="padding-bottom:2px;">Career Field (Optional)</td>
+                  <td style="padding-left:5px; padding-bottom:2px;"><select id="Career Type Classified"   class="searchboxselect" name="25">
+                      <option value="">[ Select ]</option>
+                      <option value="all" SELECTED>Select All</option>
+<option value="7067">Accountant</option>
+<option value="1300">Accounting</option>
+
+<option value="7021">Accounts Payable</option>
+<option value="1223">Accounts Receivable</option>
+<option value="1438">Actuarial</option>
+<option value="1656">Analyst</option>
+<option value="1734">Auditing</option>
+<option value="1569">Economist</option>
+<option value="1824">Financial Reporting</option>
+<option value="1315">Payroll</option>
+<option value="1567">Regulatory</option>
+
+<option value="1503">Tax</option>
+                    </select></td>
+                </tr>
+                <tr>
+                  <td width="138" style="padding-bottom:2px;">Job Title Search<br></td>
+                  <td width="185" style="padding-left:5px; padding-bottom:2px;"><input name="2" type="text" class="keywordtf" id="2" value="" size="30"></td>
+                </tr>
+                <tr>
+
+                  <td style="padding-bottom:2px;">&nbsp;</td>
+                  <td style="padding-left:5px; padding-bottom:2px;"><input name="search" type="submit" class="form_submit_button" id="search" value="Search Jobs" /></td>
+                </tr>
+              </table>
+            </form></td>
+
+
+          <td width="74%" valign="top"><div style="padding-left: 15px; padding-bottom: 100px; border-left: 1px dotted #999999">
+               <form action="/jobs.php" method="get" onsubmit="return validate_form(this)">
+   <!-- <input type="hidden" name="action" value="simple" /> -->
+
+                <table width="93%" border="0" cellpadding="3">
+                  <tr>
+                    <td colspan="3"><h4>Simple Search</h4></td>
+                  </tr>
+                  <tr>
+                    <td width="47%"><label> <strong>Career:</strong><br />
+                        <input type="text" class="rmv-dft-val" name="k" size="24" value="" style="width:100%;">
+
+                        job title, keywords</label></td>
+                    <td width="46%"><label> <strong>Location:</strong><br />
+                        <input type="text" class="rmv-dft-val" name="l" size="24" value="" style="width:100%;">
+                        city or state<br />
+                      </label></td>
+                    <td width="7%"><label>
+                        <input type="submit" value="Search Jobs">
+
+                      </label></td>
+                  </tr>
+                </table>
+              </form>
+            </div></td>
+        </tr>
+      </table>
+    </div>
+    
+
+
+<img src="http://www.jobsearchusa.org/images/rssicon.jpg" border="0" /><a href="http://www.jobsearchusa.org/rss/accounting-auditing/all/" target="_blank">Add Accounting jobs XML/RSS Feed</a>
+
+
+</div>
+    </div></td></tr>
+<tr><td>
+	<br>
+	
+		
+		<table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0" class="footerborder">
+			<tr>
+			  <td width="66%" valign="top">
+			  <div style="padding-top: 8px">
+
+			  ©2011 JobSearchUSA.org - Connecting Job Seekers with Employers throughout the USA
+			  </div>
+			  </td>
+   		 	<td width="34%" align="right">
+
+</div>
+
+
+
+				
+<br><br>				
+
+					  
+				</td>
+ 		 	</tr>
+
+</table>
+
+		</td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-972365-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+
+</html>    

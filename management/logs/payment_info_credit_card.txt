@@ -1,0 +1,3 @@
+Format: result | authcode | transID | AVRResponse | CVV Response | Max Score | decline_reason(if any) | Error Code(if any)
+"APPROVED"|"019452"|"65735"|"Y"|"M"|"0.3"
+"DECLINED"|"019452"|"65735"|"Y"|"M"|"0.3"|"Auth Declined"|"200"

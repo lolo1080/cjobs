@@ -1,0 +1,8 @@
+   {*job_sender_email*} sent you this job from CasinoJobs.com ({*site_url_txt*}):
+{*job_sender_message*}
+{*job_title*} ({*job_clickurl*})
+{*job_company_name*} - {*job_city*}, {*job_region*}
+{*job_description*}
+From {*job_feed_name*} - {*job_registered_ago*}
+
+CasinoJobs ({*site_url_txt*}) - get in the game.

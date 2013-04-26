@@ -1,0 +1,3 @@
+         Account Credited Notification
+Payment system: {*payment_system*}
+{*payment_info_text*}

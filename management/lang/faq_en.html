@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+<head>
+	<title>Piemed</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<link href="blue.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<center>
+<h1>FAQ</h1>
+</center>
+<table border="0" cellspacing="1" cellpadding="1" width="100%" class="tblcaption"> 
+<tr>
+<td>
+<table border="0" cellspacing="1" cellpadding="3" width="100%"> 
+	<tr class="tblcaption"><td><a name="filter"></a>Filter:</td></tr>
+	<tr><td class="tbldark">
+You can use filter for the reduction of volume of selected dates.
+The filter is:<br /><br />
+<img src="../images/help.gif" width="16" height="16" alt="Filter help" title="Filter help" border="0" align="absmiddle" />
+<input type="submit" align="absmiddle" class="filterbutton" name="Filter" value="Filter">
+&nbsp;&nbsp;&nbsp;
+<span class="filter">
+<input type="checkbox" class="filter_checkbox"  />
+<input type="text" class="filter_text" value="" />
+<select class="filter_select_text" />
+<option selected>Equal</option>
+<option>Begin</option>
+<option>Like</option>
+<option>Not Equal</option>
+<option>Not Like</option>
+</select>
+</span>
+<br />or<br />
+<img src="../images/help.gif" width="16" height="16" alt="Filter help" title="Filter help" border="0" align="absmiddle" />
+<input type="submit" align="absmiddle" class="filterbutton" name="Filter" value="Filter">
+&nbsp;&nbsp;&nbsp;
+<span class="filter">
+<input type="checkbox" class="filter_checkbox"  />
+<input type="text" class="filter_digit" value="" />
+<select class="filter_select_digit" />
+<option selected>=</option>
+<option>&gt;</option>
+<option>&gt;=</option>
+<option>&lt;</option>
+<option>&lt;=</option>
+<option>&lt;&gt;</option>
+</select>
+</span>
+<br />
+and consists from 4 parts :
+<ol>
+	<li>
+<b>Button "Filter"</b> - filter using. When you click on "Filter" the selection will be done;
+	</li>
+	<li>
+<b>Checkbox</b>- filter activation on given selection field. When the button "Filter" clicked
+the selection will be done only for the fields where Checkbox is switched on;
+	</li>
+	<li>
+<b>Text Field</b> - for the text. The text limits the volume of showing dates;
+	</li>
+	<li>
+<b>Condition</b> - for the dates interdependences, inputted in the field in the "Text field"
+and showed for the user. "Conditions" can be :
+		<ul><b><u>For the text fields:</u></b>
+<ul>
+Example (full list):
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td>Admin</td></tr>
+<tr><td>Michael</td></tr>
+<tr><td>Mike</td></tr>
+<tr><td>Chain</td></tr>
+</table>
+</ul>
+</ul>
+</ul>
+		<ul>
+			<li>
+<b>[<u>Equal</u>]</b> - the exact equal of the given and selected dates.
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_text" value="Admin" />
+<select class="filter_select_text" />
+<option selected>Equal</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td><b>Admin</b></td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>Begin</u>]</b> - select the dates, which started from the inputted
+in text field.
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_text" value="Mi" />
+<select class="filter_select_text" />
+<option selected>Begin</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td><b>Mi</b>chael</td></tr>
+<tr><td><b>Mi</b>ke</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>Like</u>]</b> - the likeness of the inputted and selected dates.
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_text" value="ch" />
+<select class="filter_select_text" />
+<option selected>Like</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td>Mi<b>ch</b>ael</td></tr>
+<tr><td><b>Ch</b>ain</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>Not Equal</u>]</b> - not equal of the given and selected dates
+(to show all except inputted text).
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_text" value="Admin" />
+<select class="filter_select_text" />
+<option selected>Not Equal</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td>Michael</td></tr>
+<tr><td>Mike</td></tr>
+<tr><td>Chain</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>Not Like</u>]</b> - not likeness of the inputted and selected dates
+(to show all except like inputted text).
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_text" value="a" />
+<select class="filter_select_text" />
+<option selected>Not Like</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Username:</i></td></tr>
+<tr><td>Mike</td></tr>
+</table>
+</ul>
+			</li>
+
+		</ul>
+	</li>
+</ol>
+</ul>
+<ul>
+
+		<ul><b><u>For the numeral fields and dates:</u></b>
+<ul>
+Example (full list):
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>10</td></tr>
+<tr><td>10</td></tr>
+<tr><td>20</td></tr>
+<tr><td>25</td></tr>
+</table>
+</ul>
+</ul>
+</ul>
+		<ul>
+			<li>
+<b>[<u>=</u>]</b> - the exact equal of the given and selected dates.
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="10" />
+<select class="filter_select_digit" />
+<option selected>=</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>10</td></tr>
+<tr><td>10</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>&gt;</u>]</b> - more. Show the dates which more the inputted in the "Text field".
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="10" />
+<select class="filter_select_digit" />
+<option selected>&gt;</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>20</td></tr>
+<tr><td>25</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>&gt;=</u>]</b> - more or equal. Show the dates which more or equal the inputted in the "Text field".
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="20" />
+<select class="filter_select_digit" />
+<option selected>&gt;=</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>20</td></tr>
+<tr><td>25</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>&lt;</u>]</b> - less. Show the dates which less the inputted in the "Text field".
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="15" />
+<select class="filter_select_digit" />
+<option selected>&lt;</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>10</td></tr>
+<tr><td>10</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>&lt;=</u>]</b> - less or equal. Show the dates which less or equal the inputted in the "Text field".
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="20" />
+<select class="filter_select_digit" />
+<option selected>&lt;=</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>10</td></tr>
+<tr><td>10</td></tr>
+<tr><td>20</td></tr>
+</table>
+</ul>
+			</li>
+			<li>
+<b>[<u>&lt;&gt;</u>]</b> - not equal. Show the dates which not equal the inputted in the "Text field".
+Example:<br />
+Filter:
+<ul>
+<span class="filter">
+<input type="checkbox" class="filter_checkbox" checked />
+<input type="text" class="filter_digit" value="10" />
+<select class="filter_select_digit" />
+<option selected>&lt;&gt;</option>
+</select>
+</span>
+</ul>
+Result:
+<ul>
+<table border="1" cellspacing="0" cellpadding="0" class="tbldark"> 
+<tr><td><i>Count:</i></td></tr>
+<tr><td>20</td></tr>
+<tr><td>25</td></tr>
+</table>
+</ul>
+			</li>
+
+		</ul>
+	</li>
+</ol>
+</ul>
+
+	</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
