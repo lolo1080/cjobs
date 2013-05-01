@@ -3,3 +3,4 @@ frontend/templates_c/*
 management/cache/*
 management/logs/*
 management/consts.php
+kenn_source/*

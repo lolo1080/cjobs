@@ -12820,3 +12820,873 @@ SMARTY->_tpl_vars: Array
 )
 
 
+***
+26.04.2013 12:23:13||Notice||C:\wamp\www\cjobs\frontend\common_functions.php||519||Undefined offset: 3
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+)
+
+
+***
+26.04.2013 12:23:14||Notice||C:\wamp\www\cjobs\frontend\common_functions.php||519||Undefined offset: 2
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+)
+
+
+***
+26.04.2013 12:23:14||Notice||C:\wamp\www\cjobs\frontend\common_functions.php||519||Undefined offset: 1
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+)
+
+
+***
+26.04.2013 12:23:14||User Error||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1092||Smarty error: the $compile_dir 'C:\wamp\www\cjobs/frontend//templates_c/' does not exist, or is not a directory.
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:23:14||Warning||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1256||include(C:\wamp\www\cjobs/frontend//templates_c/\%%19^19D^19D6A856%%homepage.tpl.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:23:14||Warning||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1256||include() [<a href='function.include'>function.include</a>]: Failed opening 'C:\wamp\www\cjobs/frontend//templates_c/\%%19^19D^19D6A856%%homepage.tpl.php' for inclusion (include_path='.;C:\php\pear')
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366735445; LastVisitTime=1366301063; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:31:04||User Error||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1092||Smarty error: the $compile_dir 'C:\wamp\www\cjobs/frontend//templates_c/' does not exist, or is not a directory.
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:31:04||Warning||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1256||include(C:\wamp\www\cjobs/frontend//templates_c/\%%19^19D^19D6A856%%homepage.tpl.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:31:04||Warning||C:\wamp\www\cjobs\management\smarty\libs\Smarty.class.php||1256||include() [<a href='function.include'>function.include</a>]: Failed opening 'C:\wamp\www\cjobs/frontend//templates_c/\%%19^19D^19D6A856%%homepage.tpl.php' for inclusion (include_path='.;C:\php\pear')
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:36:16||Notice||C:\wamp\www\cjobs\frontend\templates_c\%%CF^CF0^CF0B35EB%%main_header.tpl.php||8||Undefined index: SiteTitle
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:36:17||Notice||C:\wamp\www\cjobs\frontend\templates_c\%%CF^CF0^CF0B35EB%%main_header.tpl.php||10||Undefined index: SiteDescription
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:36:17||Notice||C:\wamp\www\cjobs\frontend\templates_c\%%CF^CF0^CF0B35EB%%main_header.tpl.php||12||Undefined index: SiteKeywords
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+)
+
+
+***
+26.04.2013 12:36:17||Notice||C:\wamp\www\cjobs\frontend\templates_c\%%19^19D^19D6A856%%homepage.tpl.php||74||Undefined index: JobCategoriesArrayList
+GLOBALS["_SERVER"]["HTTP_HOST"] => localhost
+GLOBALS["_SERVER"]["HTTP_COOKIE"] => NowVisitTime=1366993394; LastVisitTime=1366735445; session_favlist=XOjzoppAH8oxxHll2bnPJ2dwZNb2lIAK%2FB5EEwQS%2Bh918UcRlQyFfJN5S9Xdrt4oa%2F8ueOZzPAZJqsiN4HUa2veNIp2VNOOZoMH8vlAp%2B%2BboWoLALSgtg3ct%2B06Q9IjweZOboYo2cnQ5879O4czjoDvZga%2FUx2r6gwKP3396KnpoHXhIDemodkRTU3V9%2FnOZTPzXEM%2Ff8VoH4il5dCcst5qOxkDs2PxphJLycLd4yJtUzfnnwtTD7CdE97a2Vd%2BdYkUTxYRghvo7I%2FpCpzx4bXVul8qflHIMRhg9B1HYXW1rnvUOHhdiNXWf3g8EWF%2BHmDZq6uEyixqBj4y%2FXWdkP7wis6G18ctxAjuKPQKFy9dACg%2Bwpurt3RMJghZCePnY; session_settings=JcG3HEcMJxmERIVIj62fXkGZuCG0sBgpXe%2FgxspXWiX5wlDx2CXxsou1IpExbeYJWiHGAB40maHt17fD%2F3UiX5DuHEydJHYK1%2BA5nduHg7vx7kekrG8Zltd29V1bzrpbys3qkF3%2FMqrcRQYa%2FaVK%2BA8gLOdcE6md7R6FVVs4vg8L54xdFliJWRMr0%2FIyEhvQCkcRgBMKcjeDRFbjT2CQiFTjIQz8e2M9lc8Pl9F4jQlciTg4b7vxgEBnmzkgCBIcIUcUyGtc7T8sI7HqvB2tIVEAgVJjiBCvNvV%2Fsw9NJqqPzTYNeoN8ulhFh%2F8lPC%2BI3SifFm9nDYZ2DtgTHjv3Jg5fZD1RUwMtBMCjS%2FmVWTpar7L7Oywc2xcaQW1bOz3h; wp-gd-unit-converter-cat=length; wp-gd-unit-converter-from=cm; wp-gd-unit-converter-to=dm; __utma=111872281.1085964717.1364865465.1364897300.1364926454.5; __utmz=111872281.1364865465.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+GLOBALS["_SERVER"]["SERVER_NAME"] => localhost
+GLOBALS["_SERVER"]["SERVER_ADDR"] => ::1
+GLOBALS["_SERVER"]["SERVER_PORT"] => 80
+GLOBALS["_SERVER"]["REMOTE_ADDR"] => ::1
+GLOBALS["_SERVER"]["SCRIPT_FILENAME"] => C:/wamp/www/cjobs/index.php
+GLOBALS["_SERVER"]["REQUEST_METHOD"] => GET
+GLOBALS["_SERVER"]["QUERY_STRING"] => 
+GLOBALS["_SERVER"]["REQUEST_URI"] => /cjobs/
+GLOBALS["_SERVER"]["SCRIPT_NAME"] => /cjobs/index.php
+GLOBALS["_GET"]: Array
+(
+)
+GLOBALS["_POST"]: Array
+(
+)
+GLOBALS["_REQUEST"]: Array
+(
+)
+GLOBALS["_SESSION"]: Array
+(
+    [sess_lang] => en
+    [globsettings] => Array
+        (
+            [site_title] => ES Job Search Engine
+            [site_url] => http://localhost/cjobs/
+            [adv_start_balance] => 0.00
+            [min_adv_cost_per_click] => 0.25
+            [amount_of_listings] => 45
+            [amount_of_adv_sponsor_jobs_top] => 2
+            [amount_of_adv_sponsor_jobs_bottom] => 2
+            [amount_of_adv_keyword_ads] => 3
+            [max_adv_headline_length] => 35
+            [max_adv_line1_length] => 40
+            [max_adv_line2_length] => 40
+            [member_approved] => 1
+            [xml_pub_approved] => 1
+            [window_target] => _blank
+            [pub_start_balance] => 0.00
+            [pub_referal_percent] => 20
+            [use_stats_cache] => 1
+            [cache_actualtime_admin] => 900
+            [cache_actualtime_adv] => 900
+            [cache_actualtime_pub] => 900
+            [use_frontend_cache] => 1
+            [cache_frontend_actualtime_pages] => 900
+            [cache_frontend_actualtime_primitives] => 960
+            [earn_ip_protection] => 2
+            [allow_cities_in_db] => 1
+            [allow_cities_not_in_db] => 0
+            [jobs_without_city] => 0
+            [selected_country] => us
+        )
+
+    [sess_visitor] => Array
+        (
+            [ip] => ::1
+            [stat_vi] => 4
+        )
+
+)
+SMARTY->_tpl_vars: Array
+(
+    [SCRIPT_NAME] => /cjobs/index.php
+    [error] => 
+    [SLINE] => PHPSESSID=al4rtigbgqjhffl18acfjo1t91
+    [SNAME] => PHPSESSID
+    [SID] => al4rtigbgqjhffl18acfjo1t91
+    [AllowWithinSearch] => 1
+    [JobsInCountry] =>  Jobs in United States
+    [rows] => 9
+    [cur_row] => 0
+)
+
+

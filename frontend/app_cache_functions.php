@@ -151,6 +151,7 @@ function create_dir_force($path, $subpath)
 function write_mydata_cache(&$cache_params_array,&$cache_data_array)
 {
  global $cache_info;
+ echo 'im in write_mydata_cache.'; die();
 	if (!isset($_SESSION["globsettings"]["use_frontend_cache"]))
 	{
 		if (!isset($cache_info["use_cache_default"]) || !$cache_info["use_cache_default"]) return false;

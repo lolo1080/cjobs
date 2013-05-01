@@ -514,10 +514,10 @@ function check_visitor_ipfw_cache()
 	//if use cache - save data
 	write_mydata_cache($cache_params_array,$data_array);
 
-	$realip = getip();
+	$realip = "127.0.0.1"; // getip(); @todo: machine specific -- IP ADDRESS
 	$realip = substr($realip,0,14); 
 	list($ip1,$ip2,$ip3,$ip4) = preg_split("/\./",$realip);
-
+	
 	foreach ($data_array as $k=>$v)
 	{
 	 	$iplist = explode(".",$v["ip"]);
