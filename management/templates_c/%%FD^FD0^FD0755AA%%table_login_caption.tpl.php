@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.19, created on 2013-05-01 01:12:14
+         compiled from login/table_login_caption.tpl */ ?>
+<?php echo '<table border="0" cellPadding="0" cellSpacing="0" bgcolor="'; ?><?php echo $this->_tpl_vars['tblloginbgcolor']; ?><?php echo '" width="100%"><tr><td class="login_line" width="5">&nbsp;</td><td class="login_line" width="60"><img src="images/cp.gif" width="32" height="32" /></td><td class="login_line">'; ?><?php echo $this->_tpl_vars['SiteTitle']; ?><?php echo '</td></tr></table>'; ?>

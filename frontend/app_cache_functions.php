@@ -34,9 +34,10 @@ function get_params_list_dir($cache_params_array)
 function prepare_dir_values($cache_params_array,&$fname,&$cache_dir_innerpath)
 {
  global $cache_info;
+ 	
 	//Create cache file name
 	$fname = get_cache_filename($cache_params_array);
-
+	
 	//Create table cache dir
 	$cache_dir_innerpath = $cache_params_array["cache_group"].'/'.$cache_params_array["userid"].'/'.
 			$cache_params_array["section"].'/'.$cache_params_array["table_name"].'/'.get_params_list_dir($cache_params_array);
@@ -73,12 +74,12 @@ function read_mydata_cache(&$cache_params_array,&$cache_data_array)
 	elseif (!$_SESSION["globsettings"]["use_frontend_cache"]) return false;
 
 	//Prepare dir values
-	$cache_data_array = array();
+	$cache_data_array = array(); 
 	prepare_dir_values($cache_params_array,$fname,$cache_dir_innerpath);
 
 	//Get cache files name
 	$cache_data_filename = $cache_info["cache_dir"].$cache_dir_innerpath.$fname;
-
+	
 	if (file_exists($cache_data_filename)) {
 		//Check actual time
 		if (time()-filemtime($cache_data_filename) > $cache_params_array["actual_time"]) return false;
@@ -97,7 +98,7 @@ function read_mydata_cache(&$cache_params_array,&$cache_data_array)
 				if (filesize($cache_data_filename) == 0) return false;
 				$cache_data_array = unserialize(fread($f, filesize($cache_data_filename)));
 				fclose($f);
-				return true;
+				return true;				
 			break;
 		}
 	}
@@ -151,16 +152,16 @@ function create_dir_force($path, $subpath)
 function write_mydata_cache(&$cache_params_array,&$cache_data_array)
 {
  global $cache_info;
- echo 'im in write_mydata_cache.'; die();
+ 
 	if (!isset($_SESSION["globsettings"]["use_frontend_cache"]))
 	{
 		if (!isset($cache_info["use_cache_default"]) || !$cache_info["use_cache_default"]) return false;
 	}
 	elseif (!$_SESSION["globsettings"]["use_frontend_cache"]) return false;
-
+	
 	//Prepare dir values
 	prepare_dir_values($cache_params_array,$fname,$cache_dir_innerpath);
-
+	
 	//Create table cache dir
 	$cache_dir_fullpath = $cache_info["cache_dir"].$cache_dir_innerpath;
 	if (!is_dir($cache_dir_fullpath)) create_dir_force($cache_info["cache_dir"], $cache_dir_innerpath);
@@ -168,7 +169,7 @@ function write_mydata_cache(&$cache_params_array,&$cache_data_array)
 
 	//Get cache file names
 	$cache_data_filename = $cache_dir_fullpath.$fname;
-
+	
 	//Check actual time
 	$cache_data_filename = str_replace("//", "/", $cache_data_filename);
 	if (file_exists($cache_data_filename)) {

@@ -1,0 +1,6 @@
+<?php /* Smarty version 2.6.19, created on 2013-05-01 01:22:57
+         compiled from menu/leftmenu_header.tpl */ ?>
+<!-- Left menu header -->
+<?php echo '<table align="center" border="0" cellPadding="0" cellSpacing="0" width="'; ?><?php echo $this->_tpl_vars['lmtblwidth']; ?><?php echo '"><tr bgColor="'; ?><?php echo $this->_tpl_vars['lmtopcolor']; ?><?php echo '"> <!-- header color --><td align="center"><table border="0" cellPadding="0" cellSpacing="0"><tr><td><table border="0" cellPadding="0" cellSpacing="0"><tr><td><img src="images/'; ?><?php echo $this->_tpl_vars['lmtopimg']; ?><?php echo '" alt="" height="'; ?><?php echo $this->_tpl_vars['lmtopimg_h']; ?><?php echo '" width="'; ?><?php echo $this->_tpl_vars['lmtopimg_w']; ?><?php echo '" border="0" align="absmiddle" /></td><td><img height="20" src="images/spacer.gif" width="3" alt="" /></td><td><span class="TopSpan">'; ?><?php echo $this->_tpl_vars['lmtoptext']; ?><?php echo '</span></td><td><img height="20" src="images/spacer.gif" width="3" alt="" /></td><td><img src="images/'; ?><?php echo $this->_tpl_vars['lmtopimg']; ?><?php echo '" alt="" height="'; ?><?php echo $this->_tpl_vars['lmtopimg_h']; ?><?php echo '" width="'; ?><?php echo $this->_tpl_vars['lmtopimg_w']; ?><?php echo '" border="0" align="absmiddle" /></td></tr></table></td></tr></table></td></tr></table>'; ?>
+
+<!-- Left menu header -->

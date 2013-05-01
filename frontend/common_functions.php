@@ -17,6 +17,7 @@ function prepare_template_values(&$cache_params_array,$template_id)
 	
 	foreach ($templates_var_list as $k=>$v)
 	{
+		
 		//Maybe present in sub-template (include in one from first level templates)
 		switch ($v["name"]) {
 			case '$AllowWithinSearch': $smarty->assign("AllowWithinSearch",get_allow_within_search()); break;
@@ -142,7 +143,7 @@ function prepare_template_values(&$cache_params_array,$template_id)
 	}
 	
 	// @todo: -- added by kenn
-	$smarty->assign("JobsInCountry", " Jobs in United States");
+	//$smarty->assign("JobsInCountry", " Jobs in United States");
 	
 	// * * Write cache * * //
 	//if use cache - save data
@@ -504,6 +505,7 @@ function check_visitor_ipfw_cache()
 	if (!read_mydata_cache($cache_params_array,$data_array)) {
 		//Get global settings list
 		$qr_res = mysql_query($cache_params_array["query"]) or query_die(__FILE__,__LINE__,mysql_error());
+		
 		while ($myrow = mysql_fetch_array($qr_res))
 		{
 			$data_array[] = array("ip"=>$myrow["ip"]);

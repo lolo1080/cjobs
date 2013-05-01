@@ -10,16 +10,18 @@ require_once "functions.php";
 require_once "functions_mini2.php";
 require_once "include/functions/functions_smartry.php";
 require_once "connect.inc";
+require_once '../debug_me_helper.php';
 
 function isreguser($username,$userpass)
 {
  global $db_tables,$Error_messages,$addmessage;
 	$username = data_addslashes($username);
 	$userpass = data_addslashes($userpass);
+	
 	switch ($_SESSION["sess_curlogintype"]) {
 		case "admin":
 			//Check admin login
-			$qr_res = mysql_query("SELECT admid,admname FROM ".$db_tables["admins"]." WHERE admname='$username' and admpass=password('$userpass')") or query_die(__FILE__,__LINE__,mysql_error());
+			$qr_res = mysql_query("SELECT admid,admname FROM ".$db_tables["admins"]." WHERE admname='$username' and admpass='$userpass'") or query_die(__FILE__,__LINE__,mysql_error());
 			if (mysql_num_rows($qr_res) > 0) {
 				$myrow = mysql_fetch_array($qr_res);
 				$_SESSION["sess_user"] = "0"; $_SESSION["sess_userid"] = $myrow["admid"]; $_SESSION["sess_username"] = $myrow["admname"];

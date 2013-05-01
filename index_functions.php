@@ -19,19 +19,20 @@ function get_global_settings()
 	// if do not use cache OR cannot read cache OR cache is not actual -- get data from database and insert into table or array
 	$data_array = array();
 	if (!read_mydata_cache($cache_params_array,$data_array)) {
-		//Get global settings list
+		//Get global settings list 		
 		$qr_res = mysql_query($cache_params_array["query"]) or query_die(__FILE__,__LINE__,mysql_error());
 		while ($myrow = mysql_fetch_array($qr_res))
 		{
 			$data_array[$myrow["settings_name"]] = $myrow["settings_value"];
 		}
+		
 	}
-
+	
 	if (!isset($_SESSION["globsettings"]["selected_country"])) $data_array["selected_country"] = "all";
 	else $data_array["selected_country"] = $_SESSION["globsettings"]["selected_country"];
-
-	$_SESSION["globsettings"] = $data_array;
 	
+	$_SESSION["globsettings"] = $data_array;
+
 	//�âã áâà®ªã ã¡à âì - ¥á«¨ ­ ¤® ¤«ï «î¡®© áâà ­ë
 	if ($_SESSION["globsettings"]["selected_country"] == "all") $_SESSION["globsettings"]["selected_country"] = "us";
 

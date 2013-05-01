@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.19, created on 2013-05-01 01:06:07
+         compiled from spacer_img.tpl */ ?>
+<?php echo '<table align="center" border="0" cellPadding="0" cellSpacing="0" width="100%"><tr><td><img height="'; ?><?php echo $this->_tpl_vars['sheight']; ?><?php echo '" src="images/spacer.gif" width="'; ?><?php echo $this->_tpl_vars['swidth']; ?><?php echo '" alt="" border="0" /></td></tr></table>'; ?>

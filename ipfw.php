@@ -20,6 +20,7 @@ get_global_settings();
 // * * Check cache * * //
 $template_id = 19;
 $sql = "SELECT * FROM ".$db_tables["template_values"]." WHERE template_id='$template_id'";
+echo $sql;die();
 $cache_params_array = array(
 	"user"				=> 3, //$_SESSION["sess_user"]
 	"cache_group"	=> "smarty_frontend",

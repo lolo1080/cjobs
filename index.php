@@ -16,6 +16,7 @@ require_once $frontend_script_dir."app_cache_functions.php";
 // require_once "search_functions.php";
 // require_once "adsshowjobs.php";
 // require_once "browse_jobs_functions.php";
+require_once 'debug_me_helper.php';
 // @todo: -- added by kenn
 require_once $frontend_script_dir."common_functions.php";
 require_once $frontend_script_dir."common_statistic.php";
