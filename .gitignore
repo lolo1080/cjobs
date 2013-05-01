@@ -1,6 +1,8 @@
 frontend/templates_c/*
 .settings/*
 management/cache/*
+management/cache/smarty_frontend/0/*
 management/logs/*
 management/consts.php
-kenn_source/*
+kenn_source/
+
